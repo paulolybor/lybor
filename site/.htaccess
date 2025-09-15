@@ -1,0 +1,40 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^lybor.com.br [NC]
+  #RewriteRule ^(.*)$ https://lybor.com.br/$1 [L,R=301]
+
+# PÁGINAS
+  RewriteRule ^/?$ index.php [NC,L]
+  RewriteRule ^a-banca-especializada/?$ a-banca-especializada.php [NC,L]
+  RewriteRule ^a-banca-especializada/?$ a-banca-especializada.php [NC,L]
+  RewriteRule ^a-nossa-historia/?$ a-nossa-historia.php [NC,L]  
+  RewriteRule ^a-area-de-atuacao/?$ a-area-de-atuacao.php [NC,L]  
+  RewriteRule ^o-nosso-modus-laborandi/?$ o-nosso-modus-laborandi.php [NC,L]  
+  RewriteRule ^o-staff/?$ o-staff.php [NC,L]
+  RewriteRule ^videos-defesa-do-produtor-rural/?$ videos-defesa-do-produtor-rural.php [NC,L]
+  RewriteRule ^os-nossos-valores/?$ os-nossos-valores.php [NC,L]  
+  RewriteRule ^contato/?$ contato.php [NC,L]  
+  RewriteRule ^normas/?$ normas.php [NC,L]  
+  RewriteRule ^referencia-profissional/?$ referencia-profissional.php [NC,L]  
+  RewriteRule ^decisoes-do-colegiado/?$ decisoes-do-colegiado.php [NC,L] 
+  RewriteRule ^divisao-socios-despesas-prejuizos-riscos-financeiros/?$ divisao-socios-despesas-prejuizos-riscos-financeiros.php [NC,L]  
+  RewriteRule ^ata-reuniao-conselho-diretores/?$ ata-reuniao-conselho-diretores.php [NC,L] 
+  RewriteRule ^comunicados-importantes/?$ comunicados-importantes.php [NC,L]  
+  RewriteRule ^circulares/?$ circulares.php [NC,L]  
+  RewriteRule ^carreira-e-meritocracia/?$ carreira-e-meritocracia.php [NC,L]  
+  RewriteRule ^circulares-diretoria-juridico/?$ circulares-diretoria-juridico.php [NC,L]  
+  RewriteRule ^circulares-dep-pericia/?$ circulares-dep-pericia.php [NC,L]  
+  RewriteRule ^circulares-recepcionista/?$ circulares-recepcionista.php [NC,L]  
+  RewriteRule ^circulares-dep-financeiro-e-assistente-diretoria/?$ circulares-dep-financeiro-e-assistente-diretoria.php [NC,L]  
+  RewriteRule ^circulares-ref-saude/?$ circulares-ref-saude.php [NC,L]  
+  RewriteRule ^circulares-dep-limpeza-manutencao-conservacao-sevicos-gerais/?$ circulares-dep-limpeza-manutencao-conservacao-sevicos-gerais.php [NC,L]  
+  RewriteRule ^circulares-cafe-le-bateau/?$ circulares-cafe-le-bateau.php [NC,L]  
+
+</IfModule>
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
