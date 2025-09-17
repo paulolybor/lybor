@@ -107,36 +107,36 @@
           </center>
           <!-- FIM TEXTO INGLES -->
 
-               <!-- TEXTO RUSSO -->
+               <!-- TEXTO ARABE -->
     <?php }
-  if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+  if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
       <div id="wrapper">
         <section id="contato">
           <div class="mapa">
             <iframe width="100%" height="390" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3661.0086203959036!2d-51.938575248956866!3d-23.42405576234738!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ecd0d2ce25e2ef%3A0x634719210b95ba09!2sAv.+Herval%2C+200+-+Zona+01%2C+Maring%C3%A1+-+PR%2C+87013-110!5e0!3m2!1spt-BR!2sbr!4v1495468836482" allowfullscreen></iframe>
           </div>
           <div class="titulo-pagina titulo-maior">
-            <h1> Связаться с Либором </h1>
+            <h1> اتصل بليبور </h1>
             <span style="display:block; height: 35px;"></span>
-            <p> Наш офис </p>
+            <p> مكتبنا </p>
           </div>
           <div class="textos" style="margin-top: -12px;">
             <p>
-            Авенида Эрваль, № 200 - Зона 01<br>
-            Почтовый индекс 87013-110<br>
-            Маринга - Парана
+            أفينيدا إيرفالي، رقم 200 - منطقة 01<br>
+            الرمز البريدي 87013-110<br>
+            مارينغا - بارانا
 
             </p>
             <p>
-              <span> Телефон </span><br>
+              <span> هاتف </span><br>
               +55 44 3027 4500
             </p>
             <p>
-              <span> Телефакс </span><br>
+              <span> فاكس </span><br>
               +55 44 3027 4500
             </p>
             <p>
-              <span> Электронная почта </span><br>
+              <span> البريد الإلكتروني </span><br>
               contato@lybor.com.br
             </p>
           </div>
@@ -144,7 +144,7 @@
             <img src="assets/img/lirios.jpg" width="100%" style="margin-top: 22px;">
             <span style="display:block; height: 50px;"></span>
           </center>
-          <!-- FIM TEXTO RUSSO -->
+          <!-- FIM TEXTO ARABE -->
 
         <?php }
 

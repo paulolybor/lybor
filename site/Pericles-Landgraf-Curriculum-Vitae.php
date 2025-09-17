@@ -43,15 +43,15 @@
             <img class="curriculum" src="assets/img/cv-pericles/img-3-en.jpg"><br>
            
             <!-- FIM TEXTO INGLÊS -->
-            <!-- TEXTO RUSSO -->
+            <!-- TEXTO ARABE -->
           <?php }
-          if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+          if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
             <!-- <h3> Péricles Landgraf Curriculum Vitae </h3> -->
             <img class="curriculum" src="assets/img/cv-pericles/img-1-en.jpg"><br>
             <img class="curriculum" src="assets/img/cv-pericles/img-2-en.jpg"><br>
             <img class="curriculum" src="assets/img/cv-pericles/img-3-en.jpg"><br>
            
-            <!-- FIM TEXTO RUSSO -->
+            <!-- FIM TEXTO ARABE -->
           <?php } ?>
 
 

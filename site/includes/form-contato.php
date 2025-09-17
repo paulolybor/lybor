@@ -199,9 +199,9 @@ if ($_SERVER['HTTP_HOST'] == 'en.lybor.com.br') { ?>
     </section>
 <!-- FIM TEXTO INGLES -->
 
-<!-- TEXTO RUSSO -->
+<!-- TEXTO ARABE -->
 <?php }
-if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
     <div class="formulario-pagina">
         <div class="container">
             <div class="area-form">
@@ -301,6 +301,6 @@ if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
     </div>
     </section>
 
-<!-- FIM TEXTO RUSSO -->
+<!-- FIM TEXTO ARABE -->
 
 <?php } ?>

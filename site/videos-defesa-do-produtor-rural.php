@@ -60,12 +60,12 @@
           <!-- FIM TEXTO INGLES -->
 
 
-          <!-- TEXTO RUSSO -->
+          <!-- TEXTO ARABE -->
         <?php }
-        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
           
-          <div class="texto" id="page-estrutura-do-grupo"  style="margin-bottom: 0;">
-            <h3> Видео | В защиту сельских производителей и национального сельского хозяйства </h3>
+            <div class="texto" id="page-estrutura-do-grupo"  style="margin-bottom: 0;">
+            <h3> فيديوهات | دفاعًا عن المنتجين الريفيين والزراعة الوطنية </h3>
           <!-- <div class="bloco-landgraf">
               <div>
                 <p>

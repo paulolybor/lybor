@@ -298,9 +298,9 @@
           </div>
           <!-- FIM TEXTO INGLES -->
 
-          <!-- TEXTO EM RUSSO -->
+          <!-- TEXTO EM ARABE -->
         <?php }
-        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
           <div class="texto" id="page-estrutura-do-grupo">
             <a href="https://www.jusbrasil.com.br/processos/nome/28511896/pericles-landgraf-araujo-oliveira" title="ACCESS JUSBRASIL" target="_blank">
               <img class="img-notica-home" src="assets/img/jusbrasil.png" width="100%" style="max-height: 100%;">
@@ -397,7 +397,7 @@
               </div>
             </div>
           </div>
-          <!-- FIM TEXTO RUSSO -->
+          <!-- FIM TEXTO ARABE -->
         <?php } ?>
 
               <!-- SESSÃO COMMODITIES AGRÍCOLAS -->

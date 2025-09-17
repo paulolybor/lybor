@@ -54,9 +54,9 @@
               <a href="Pericles-Landgraf-Curriculum-Vitae.php" style="color: #69b8d6; font-weight: 600;">Péricles Landgraf, <i>curriculum vitae</i>.</a>
             </p>
             <!-- FIM TEXTO INGLÊS -->
-            <!-- TEXTO RUSSO -->
+            <!-- TEXTO ARABE -->
           <?php }
-          if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+          if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
             <h3> Наша история </h3>
             <img class="a-historia" src="assets/img/pericles-e-amanda-landgraf-01.jpg">
             <p>
@@ -65,7 +65,7 @@
             <p>
               <a href="Pericles-Landgraf-Curriculum-Vitae.php" style="color: #69b8d6; font-weight: 600;">Péricles Landgraf, <i>curriculum vitae</i>.</a>
             </p>
-            <!-- FIM TEXTO RUSSO -->
+            <!-- FIM TEXTO ARABE -->
           <?php } ?>
 
 <!-- Galeria Fotos -->

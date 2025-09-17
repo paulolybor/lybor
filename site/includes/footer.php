@@ -28,9 +28,9 @@
                 <button class="button-modal" type="submit">Login</button>
             </div>
             <!-- FIM TEXTO INGLES -->
-             <!-- TEXTO EM RUSSO -->
+             <!-- TEXTO EM ARABE -->
         <?php }
-        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
             <div class="form-holder">
                 <label for="usuario"><b>Usuário</b></label>
                 <input type="text" placeholder="Usuário" name="usuario" required>
@@ -40,7 +40,7 @@
                 <p></p>
                 <button class="button-modal" type="submit">Login</button>
             </div>
-            <!-- FIM TEXTO RUSSO -->
+            <!-- FIM TEXTO ARABE -->
         <?php } ?>
     </form>
 
@@ -209,34 +209,34 @@
                 </div>
             </div>
             <!-- FIM TEXTO INGLES -->
-            <!-- TEXTO RUSSO -->
+            <!-- TEXTO ARABE -->
         <?php }
-        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
             <div class="flex-footer">
                 <a href="/" class="logo-footer"> <img src="assets/img/logo.png"> </a>
                 <div class="center nav-footer" style="width: 85%;">
                     <ul class="flex-footer" style="margin-left: -40px;">
                         <li class="footer-menu">
-                            <a class="footer-menu" href="normas">Внутренние корпоративные стандарты</a>
+                            <a class="footer-menu" href="normas">المعايير الداخلية للشركة</a>
                         </li>
                         <li class="footer-menu">
-                            <a class="footer-menu" href="referencia-profissional">Профессиональная справка</a>
+                            <a class="footer-menu" href="referencia-profissional">المرجع المهني</a>
                         </li>
                         <li class="footer-menu">
-                            <a class="footer-menu mediabox" href="assets/video/pascoa.mp4">Пасха</a>
+                            <a class="footer-menu mediabox" href="assets/video/pascoa.mp4">عيد الفصح</a>
                         </li>
                         <li class="footer-menu">
-                            <a class="footer-menu mediabox" href="assets/video/dia-das-maes.mp4">День матери</a>
+                            <a class="footer-menu mediabox" href="assets/video/dia-das-maes.mp4">عيد الأم</a>
                         </li>
                     </ul>
                 </div>
                 <div>
                     <div style="text-align:center; padding-top: 10px;">
-                        <p class="label-1" style="font-weight: 700;">LYBOR © 1991.<br>ВСЕ ПРАВА ЗАЩИЩЕНЫ.</p>
+                        <p class="label-1" style="font-weight: 700;">ليبور © 1991.<br>جميع الحقوق محفوظة.</p>
                     </div>
                 </div>
             </div>
-            <!-- FIM TEXTO RUSSO -->
+            <!-- FIM TEXTO ARABE -->
 
         <?php } ?>
     </div>

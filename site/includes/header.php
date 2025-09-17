@@ -242,7 +242,7 @@
                                 <a href="https://en.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-ingles.png" width="30px" /> <span style="vertical-align: middle; margin-left:4px;">English</span></a>
                             </li>
                             <li style="line-height: 20px; height:20px;">
-                                <a href="https://rs.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-rus.png" width="30px" /> <span style="vertical-align: middle; margin-left:4px;">Русский</span></a>
+                                <a href="https://ar.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-rus.png" width="30px" /> <span style="vertical-align: middle; margin-left:4px; font-size:1.2em;"> عربي </span></a>
                             </li>
                         </ul>
                     </li>
@@ -269,12 +269,12 @@
                             <a href="/" class="logo"> <img src="assets/img/logo-eng.svg" class="logo-img">
                             </a>
                             <!-- FIM TEXTO INGLES -->
-                            <!-- TEXTO RUSSO -->
+                            <!-- TEXTO ARABE -->
                         <?php }
-                        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+                        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
                             <a href="/" class="logo"> <img src="assets/img/logo-rus.svg" class="logo-img">
                             </a>
-                            <!-- FIM TEXTO RUSSO -->
+                            <!-- FIM TEXTO ARABE -->
                         <?php } ?>
                         <div class="menu dropdown">
                             <nav>
@@ -298,7 +298,7 @@
                                                 <div id="google_translate_element" class="boxTradutor"></div>
                                                 <li><a href="https://pt.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-brasil.png" width="30px" /><span style="vertical-align: middle; margin-left:6px;">Рortuguês</span></a></li>
                                                 <li><a href="https://en.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-ingles.png" width="30px" /><span style="vertical-align: middle; margin-left:4px;">English</span></a></li>
-                                                <li><a href="https://rs.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-rus.png" width="30px" /><span style="vertical-align: middle; margin-left:4px;">Русский</span></a></li>
+                                                <li><a href="https://ar.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-arabe.jpg" width="30px" /><span style="vertical-align: middle; margin-left:4px; font-size:1.2em;">العربية</span></a></li>
                                             </ul>
                                         </li>
                                         <!-- FIM TEXTO PT -->
@@ -322,34 +322,34 @@
                                                 <div id="google_translate_element" class="boxTradutor"></div>
                                                 <li><a href="https://pt.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-brasil.png" width="30px" /><span style="vertical-align: middle; margin-left:6px;">Рortuguês</span></a></li>
                                                 <li><a href="https://en.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-ingles.png" width="30px" /><span style="vertical-align: middle; margin-left:4px;">English</span></a></li>
-                                                <li><a href="https://rs.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-rus.png" width="30px" /><span style="vertical-align: middle; margin-left:4px;">Русский</span></a></li>
+                                                <li><a href="https://ar.lybor.com.br"><img style="vertical-align: middle" src="assets/img/bandeira-arabe.jpg" width="30px" /><span style="vertical-align: middle; margin-left:4px; font-size:1.2em;">العربية</span></a></li>
                                             </ul>
                                         </li>
                                         <!-- FIM TEXTO INGLES -->
-                                        <!-- TEXTO RUSSO -->
+                                        <!-- TEXTO ARABE -->
                                         <?php }
-                                    if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
-                                        <li><a class="label-a-banca-especializada" href="a-banca-especializada"> БАНКОВСКОЕ ПРАВО </a></li>
-                                        <li><a class="label-a-banca" href="a-banca-especializada"> БАНКА </a></li>
-                                        <li><a href="a-nossa-historia"> НАША ИСТОРИЯ </a></li>
-                                        <li><a href="a-area-de-atuacao"> СФЕРА ДЕЯТЕЛЬНОСТИ </a></li>
-                                        <li><a href="o-nosso-modus-laborandi"> НАШИ МЕТОДЫ РАБОТЫ </a></li>
-                                        <li><a href="o-staff"> - ПЕРСОНАЛ </a></li>
-                                        <li><a href="videos-defesa-do-produtor-rural"> ВИДЕО | ЗАЩИТА СЕЛЬСКОГО ПРОИЗВОДИТЕЛЯ </a></li>
-                                        <li><a href="os-nossos-valores"> НАШИ ЦЕННОСТИ </a></li>
-                                        <li><a href="contato"> КОНТАКТ </a></li>
+                                    if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
+                                        <li><a class="label-a-banca-especializada" href="a-banca-especializada"> القانون المصرفي </a></li>
+                                        <li><a class="label-a-banca" href="a-banca-especializada"> البنك </a></li>
+                                        <li><a href="a-nossa-historia"> تاريخنا </a></li>
+                                        <li><a href="a-area-de-atuacao"> مجال العمل </a></li>
+                                        <li><a href="o-nosso-modus-laborandi"> طرق عملنا </a></li>
+                                        <li><a href="o-staff"> الطاقم </a></li>
+                                        <li><a href="videos-defesa-do-produtor-rural"> فيديو | الدفاع عن المنتج الريفي </a></li>
+                                        <li><a href="os-nossos-valores"> قيمنا </a></li>
+                                        <li><a href="contato"> تواصل معنا </a></li>
                                         <li class="dropdown menu-desk2">
-                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">ЯЗЫК
+                                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">اللغة
                                                 <span class="caret"></span>
                                             </a>
                                             <ul class="dropdown-menu">
                                                 <div id="google_translate_element" class="boxTradutor"></div>
-                                                <li><a href="https://pt.lybor.com.br"><img src="assets/img/bandeira-brasil.png" width="30px" />Португальский язык</a></li>
-                                                <li><a href="https://en.lybor.com.br"><img src="assets/img/bandeira-ingles.png" width="30px" />Английский язык</a></li>
-                                                <li><a href="https://rs.lybor.com.br"><img src="assets/img/bandeira-russia.svg" width="30px" />Русский</a></li>
+                                                <li><a href="https://pt.lybor.com.br"><img src="assets/img/bandeira-brasil.png" width="30px" />Português</a></li>
+                                                <li><a href="https://en.lybor.com.br"><img src="assets/img/bandeira-ingles.png" width="30px" />English</a></li>
+                                                <li><a href="https://ar.lybor.com.br" style="font-size: 1.2em;"><img src="assets/img/bandeira-arabe.jpg" width="30px" />العربية</a></li>
                                             </ul>
                                         </li>
-                                        <!-- FIM TEXTO RUSSO -->
+                                        <!-- FIM TEXTO ARABE -->
                                     <?php } ?>
                                 </ul>
                             </nav>

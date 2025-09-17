@@ -145,9 +145,9 @@
           <!-- FIM TEXTO INGLES -->
 
 
-          <!-- TEXTO RUSSO -->
+          <!-- TEXTO ARABE -->
         <?php }
-        if ($_SERVER['HTTP_HOST'] == 'rs.lybor.com.br') { ?>
+        if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
           <div class="texto" id="page-estrutura-do-grupo"   style="margin-bottom: 0;">
           <img class="a-banca" src="assets/img/placa-lybor-landgraf.jpg">
             <h3> Профессия юриста </h3>
@@ -197,7 +197,7 @@
             LYBOR LANDGRAF – сегодня самая престижная юридическая фирма (<a href="https://lybor.com.br">https://www.lybor.com.br</a>) в стране по своей специальности, обладатель несколько национальных наград за свой опыт, с командой прямых специалистов, насчитывающей около 50 специалистов, и косвенных специалистов, состоящей из 900 специалистов, работающих во всех штатах Бразильской Федерации, с более чем 15 тысячами процессов в сфере судебных разбирательств и более 40 тысяч клиентов в профилактическо-консультативной сфере.
             </p>
           </div>
-          <!-- FIM TEXTO RUSSO -->
+          <!-- FIM TEXTO ARABE -->
         <?php } ?>
 
 
