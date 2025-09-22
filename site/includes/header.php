@@ -231,7 +231,7 @@
                 <div>
                     <li class="link-menu2-mobile menu dropdown" style="list-style: none; width: 110px;padding-left:20px;">
                         <a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font: .9em 'BeauSans'; font-weight:600; line-height:105px; height: 100px; text-decoration:none;">LANGUAGE
-                            <span class="caret" style=""></span>
+                            <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu dropdown-menu2">
                             <div id="google_translate_element" class="boxTradutor"></div>
@@ -242,7 +242,7 @@
                                 <a href="https://en.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-ingles.png" width="30px" /> <span style="vertical-align: middle; margin-left:4px;">English</span></a>
                             </li>
                             <li style="line-height: 20px; height:20px;">
-                                <a href="https://ar.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-rus.png" width="30px" /> <span style="vertical-align: middle; margin-left:4px; font-size:1.2em;"> عربي </span></a>
+                                <a href="https://ar.lybor.com.br" style="line-height:40px; height: 32px;"><img style="vertical-align: middle" src="assets/img/bandeira-arabe.jpg" width="30px" /> <span style="vertical-align: middle; margin-left:4px; font-size:1.2em;"> عربي </span></a>
                             </li>
                         </ul>
                     </li>
