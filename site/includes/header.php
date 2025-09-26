@@ -48,15 +48,15 @@
     <meta name="doc-rights" content="Public" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
     <meta name="format-detection" content="telephone=no">
 
     <link rel="shortcut icon" href="assets/img/ico/favicon-1.ico" />
 
-    <link href='http://fonts.googleapis.com/css?family=Exo:400,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,200italic,200,900' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,900,700italic,900italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Exo:400,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,200italic,200,900' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,900,700italic,900italic' rel='stylesheet' type='text/css'>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Arimo:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/plugins.css" rel="stylesheet">
@@ -65,7 +65,7 @@
     <link href="assets/css/app-8-1.css?v=162" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/mediabox.css" rel="stylesheet">
-    <link href="assets/css/style-main.css?v=157" rel="stylesheet">
+    <link href="assets/css/style-main.css?v=158" rel="stylesheet">
 
     <meta name="facebook-domain-verification" content="jpzc8pwu4l467iy8fhps3rzwzjtk5h" />
 

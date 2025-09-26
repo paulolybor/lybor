@@ -7,10 +7,10 @@
         <?php if ($_SERVER['HTTP_HOST'] == 'pt.lybor.com.br' || $_SERVER['HTTP_HOST'] == 'lybor.com.br' || $_SERVER['HTTP_HOST'] == 'www.lybor.com.br' || $_SERVER['HTTP_HOST'] == 'localhost') { ?>
             <div class="form-holder">
                 <label for="usuario"><b>Usuário</b></label>
-                <input type="text" placeholder="Usuário" name="usuario" required>
+                <input type="text" placeholder="Usuário" name="usuario" id="usuario" required>
                 <p></p>
                 <label for="senha"><b>Senha</b></label>
-                <input type="password" placeholder="Senha" name="senha" required>
+                <input type="password" placeholder="Senha" name="senha" id="senha" required>
                 <p></p>
                 <button class="button-modal" type="submit">Login</button>
             </div>
