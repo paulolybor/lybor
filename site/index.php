@@ -1,37 +1,5 @@
 <?php include('includes/header.php'); ?>
 
-<body>
-
-<!-- <div id="popup" class="popup">
-    <div class="popup-content">
-    <button class="close-x" onclick="closePopup()"><strong>X</strong></button><br>
-      <?php //include('includes/pop-up.php'); ?>
-        <button class="close-btn" onclick="closePopup()">Fechar</button>
-    </div>
-</div> -->
-
-<script>
-    // Função para exibir o popup
-    function showPopup() {
-        document.getElementById('popup').style.display = 'flex';
-    }
-
-    // Função para fechar o popup
-    function closePopup() {
-        document.getElementById('popup').style.display = 'none';
-    }
-
-    // Mostrar o popup quando a página carregar
-    window.onload = function() {
-        showPopup();
-    }
-</script>
-
-</body>
-
-
-
-
 <div id="wrapper">
   <section id="home">
 
@@ -72,7 +40,7 @@
                   </div>
                   <div class="row content">
                     <div class="col-md-6 grid">
-                      <a href="http://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height metade-height-3 blocos conheca">
+                      <a href="https://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height metade-height-3 blocos conheca">
                         <div class="texto">
                           <p> Agricultura </p>
                           <h4>
@@ -102,7 +70,7 @@
                         quatro anos consecutivos como melhor advocacia do setor.
                       </h4>
                       <div style="display:block; height: 20px;"></div>
-                      <a href="http://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> VEJA SOBRE O PRÊMIO MASTER CANA </a>
+                      <a href="https://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> VEJA SOBRE O PRÊMIO MASTER CANA </a>
                     </div>
                   </div>
                 </div>
@@ -136,7 +104,7 @@
                   </div>
                   <div class="row content">
                     <div class="col-md-6 grid">
-                      <a href="http://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height blocos conheca">
+                      <a href="https://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height blocos conheca">
                         <div class="texto">
                           <p> Agriculture </p>
                           <h4>
@@ -163,7 +131,7 @@
                         Our law firm is the winner of the Master Cana Award for<br>
                         four consecutive years as the best law firm in the sector.
                       </h4>
-                      <a href="http://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> SEE ABOUT THE MASTER CANA AWARD </a>
+                      <a href="https://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> SEE ABOUT THE MASTER CANA AWARD </a>
                     </div>
                   </div>
                 </div>
@@ -197,7 +165,7 @@
                   </div>
                   <div class="row content">
                     <div class="col-md-6 grid">
-                      <a href="http://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height metade-height-3 blocos conheca">
+                      <a href="https://g1.globo.com/to/tocantins/noticia/2015/02/producao-de-soja-aumenta-no-mas-faltam-industrias-de-beneficiamento.html" target="_blank" class="metade-height metade-height-3 blocos conheca">
                         <div class="texto">
                           <p> الزراعة </p>
                           <h4>
@@ -226,7 +194,7 @@
                         مكتبنا القانوني حائز على جائزة السيد كانا لأربع سنوات متتالية كأفضل مكتب قانوني في القطاع.
                       </h4>
                       <div style="display:block; height: 20px;"></div>
-                      <a href="http://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> انظر حول جائزة ماستر كانا </a>
+                      <a href="https://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> انظر حول جائزة ماستر كانا </a>
                     </div>
                   </div>
                 </div>

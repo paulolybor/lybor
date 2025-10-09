@@ -9,7 +9,7 @@
  * @author Andy Prevost
  * @author Marcus Bointon
  * @copyright 2004 - 2009 Andy Prevost
- * @license http://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
+ * @license https://www.gnu.org/copyleft/lesser.html GNU Lesser General Public License
  */
 
 require 'PHPUnit/Autoload.php';
@@ -307,7 +307,7 @@ class phpmailerTest extends PHPUnit_Framework_TestCase
 
     /**
      * Test email address validation
-     * Test addresses obtained from http://isemail.info
+     * Test addresses obtained from https://isemail.info
      * Some failing cases commented out that are apparently up for debate!
      */
     function testValidate()
@@ -975,7 +975,7 @@ EOT;
 
     /**
      * Tests this denial of service attack:
-     *    http://www.cybsec.com/vuln/PHPMailer-DOS.pdf
+     *    https://www.cybsec.com/vuln/PHPMailer-DOS.pdf
      */
     function test_DenialOfServiceAttack()
     {

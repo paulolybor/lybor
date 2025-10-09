@@ -60,12 +60,12 @@
 
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/plugins.css" rel="stylesheet">
-    <link href="assets/css/styles-8-1.css?v=152" rel="stylesheet">
+    <link href="assets/css/styles-8-1.css?v=153" rel="stylesheet">
 
-    <link href="assets/css/app-8-1.css?v=162" rel="stylesheet">
+    <link href="assets/css/app-8-1.css?v=163" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
     <link href="assets/css/mediabox.css" rel="stylesheet">
-    <link href="assets/css/style-main.css?v=158" rel="stylesheet">
+    <link href="assets/css/style-main.css?v=163" rel="stylesheet">
 
     <meta name="facebook-domain-verification" content="jpzc8pwu4l467iy8fhps3rzwzjtk5h" />
 
@@ -127,6 +127,8 @@
     </script>
     <!-- End Google Tag Manager -->
 
+    <script src="https://cdn.jsdelivr.net/npm/mediabox/dist/mediabox.min.js"></script>
+
 
     <style>
         /* Estilos para o popup */
@@ -187,8 +189,19 @@
 
         /* Estilos para o menu, garantindo que ele tenha um z-index menor que o popup */
         .menu {
-            z-index: 1000; /* Certifique-se de que o z-index do menu seja menor que o do popup */
+            z-index: 800; /* Certifique-se de que o z-index do menu seja menor que o do popup */
         }
+
+        /* Elimina o overlay fantasma em telas até 991 px */
+@media (max-width: 991.98px) {
+  .elementor-popup-modal,
+  .elementor-overlay,
+  .seletor-do-overlay-que-identificou {
+    display: none !important;   /* ou pointer-events:none */
+    z-index: -1 !important;
+  }
+}
+
     </style>
 
 

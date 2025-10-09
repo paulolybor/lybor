@@ -3886,7 +3886,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
 }
 
 .custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 8 8\'%3E%3Cpath fill=\'%23fff\' d=\'M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' viewBox=\'0 0 8 8\'%3E%3Cpath fill=\'%23fff\' d=\'M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z\'/%3E%3C/svg%3E');
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::before {
@@ -3894,7 +3894,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
 }
 
 .custom-checkbox .custom-control-input:indeterminate ~ .custom-control-label::after {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 4 4\'%3E%3Cpath stroke=\'%23fff\' d=\'M0 2h4\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' viewBox=\'0 0 4 4\'%3E%3Cpath stroke=\'%23fff\' d=\'M0 2h4\'/%3E%3C/svg%3E');
 }
 
 .custom-checkbox .custom-control-input:disabled:checked ~ .custom-control-label::before {
@@ -3914,7 +3914,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
 }
 
 .custom-radio .custom-control-input:checked ~ .custom-control-label::after {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'-4 -4 8 8\'%3E%3Ccircle r=\'3\' fill=\'%23fff\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' viewBox=\'-4 -4 8 8\'%3E%3Ccircle r=\'3\' fill=\'%23fff\'/%3E%3C/svg%3E');
 }
 
 .custom-radio .custom-control-input:disabled:checked ~ .custom-control-label::before {
@@ -3931,7 +3931,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
   line-height : 1.5;
   color : #495057;
   vertical-align : middle;
-  background : #FFFFFF url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' viewBox=\'0 0 4 5\'%3E%3Cpath fill=\'%23343a40\' d=\'M2 0L0 2h4zm0 5L0 3h4z\'/%3E%3C/svg%3E') no-repeat right 0.75rem center;
+  background : #FFFFFF url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' viewBox=\'0 0 4 5\'%3E%3Cpath fill=\'%23343a40\' d=\'M2 0L0 2h4zm0 5L0 3h4z\'/%3E%3C/svg%3E') no-repeat right 0.75rem center;
   -webkit-background-size : 8px 10px;
           background-size : 8px 10px;
   border : 1px solid #CED4DA;
@@ -4743,7 +4743,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
 }
 
 .navbar-light .navbar-toggler-icon {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(0, 0, 0, 0.5)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'https://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(0, 0, 0, 0.5)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E');
 }
 
 .navbar-light .navbar-text {
@@ -4783,7 +4783,7 @@ input[type='submit'].btn-block, input[type='reset'].btn-block, input[type='butto
 }
 
 .navbar-dark .navbar-toggler-icon {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'http://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(255, 255, 255, 0.5)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg viewBox=\'0 0 30 30\' xmlns=\'https://www.w3.org/2000/svg\'%3E%3Cpath stroke=\'rgba(255, 255, 255, 0.5)\' stroke-width=\'2\' stroke-linecap=\'round\' stroke-miterlimit=\'10\' d=\'M4 7h22M4 15h22M4 23h22\'/%3E%3C/svg%3E');
 }
 
 .navbar-dark .navbar-text {
@@ -5875,7 +5875,7 @@ button.close {
   right : 0;
   bottom : 0;
   left : 0;
-  z-index : 1050;
+  z-index : 850;
   display : none;
   overflow : hidden;
   outline : 0;
@@ -5969,7 +5969,7 @@ button.close {
   right : 0;
   bottom : 0;
   left : 0;
-  z-index : 1040;
+  z-index : 840;
   background-color : #000000;
 }
 .modal-backdrop.fade {
@@ -6082,7 +6082,7 @@ button.close {
 
 .tooltip {
   position : absolute;
-  z-index : 1070;
+  z-index : 870;
   display : block;
   margin : 0;
   font-family : 'Montserrat', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -6184,7 +6184,7 @@ button.close {
   position : absolute;
   top : 0;
   left : 0;
-  z-index : 1060;
+  z-index : 860;
   display : block;
   max-width : 276px;
   font-family : 'Montserrat', 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
@@ -6526,11 +6526,11 @@ button.close {
 }
 
 .carousel-control-prev-icon {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' fill=\'%23fff\' viewBox=\'0 0 8 8\'%3E%3Cpath d=\'M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' fill=\'%23fff\' viewBox=\'0 0 8 8\'%3E%3Cpath d=\'M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z\'/%3E%3C/svg%3E');
 }
 
 .carousel-control-next-icon {
-  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'http://www.w3.org/2000/svg\' fill=\'%23fff\' viewBox=\'0 0 8 8\'%3E%3Cpath d=\'M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z\'/%3E%3C/svg%3E');
+  background-image : url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\'https://www.w3.org/2000/svg\' fill=\'%23fff\' viewBox=\'0 0 8 8\'%3E%3Cpath d=\'M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z\'/%3E%3C/svg%3E');
 }
 
 .carousel-indicators {
@@ -8293,7 +8293,7 @@ a.bg-base:hover, a.bg-base:focus, button.bg-base:hover, button.bg-base:focus {
   top : 0;
   right : 0;
   left : 0;
-  z-index : 1030;
+  z-index : 830;
 }
 
 .fixed-bottom {
@@ -8301,7 +8301,7 @@ a.bg-base:hover, a.bg-base:focus, button.bg-base:hover, button.bg-base:focus {
   right : 0;
   bottom : 0;
   left : 0;
-  z-index : 1030;
+  z-index : 830;
 }
 
 @supports ((position: -webkit-sticky) or (position: sticky)) {
@@ -8309,7 +8309,7 @@ a.bg-base:hover, a.bg-base:focus, button.bg-base:hover, button.bg-base:focus {
     position : -webkit-sticky;
     position :         sticky;
     top : 0;
-    z-index : 1020;
+    z-index : 820;
   }
 }
 
@@ -39873,7 +39873,7 @@ input:focus ~ .bg-transparent {
   font-weight : normal;
 }
 
-/* Shadows (from mdl http://www.getmdl.io/) */
+/* Shadows (from mdl https://www.getmdl.io/) */
 .alert.alert-custom {
   color : #99004D;
   background-color : #F169B4;
@@ -41254,7 +41254,7 @@ body.chat-page .main-panel {
   left : 0;
   width : 100%;
   height : 100%;
-  z-index : 1000;
+  z-index : 800;
   text-indent : 200%;
   white-space : nowrap;
   font-size : 0;
@@ -47337,7 +47337,7 @@ ul.no-list-style {
   right : -400px;
   padding : 0;
   background-color : #FFFFFF;
-  z-index : 1051;
+  z-index : 851;
   position : fixed;
   top : 0;
   bottom : 0;
@@ -47500,20 +47500,20 @@ ul.no-list-style {
  *  Weather themed icons for Bootstrap
  *  Author - Erik Flowers - erik@helloerik.com
  *  Email: erik@helloerik.com
- *  Twitter: http://twitter.com/Erik_UX
+ *  Twitter: https://twitter.com/Erik_UX
  *  ------------------------------------------------------------------------------
- *  Maintained at http://erikflowers.github.io/weather-icons
+ *  Maintained at https://erikflowers.github.io/weather-icons
  *
  *  License
  *  ------------------------------------------------------------------------------
  *  - Font licensed under SIL OFL 1.1 -
- *    http://scripts.sil.org/OFL
+ *    https://scripts.sil.org/OFL
  *  - CSS, LESS and SCSS are licensed under MIT License -
- *    http://opensource.org/licenses/mit-license.html
+ *    https://opensource.org/licenses/mit-license.html
  *  - Documentation licensed under CC BY 3.0 -
- *    http://creativecommons.org/licenses/by/3.0/
+ *    https://creativecommons.org/licenses/by/3.0/
  *  - Inspired by and works great as a companion with Font Awesome
- *    "Font Awesome by Dave Gandy - http://fontawesome.io"
+ *    "Font Awesome by Dave Gandy - https://fontawesome.io"
  */
 @font-face {
   font-family : 'weathericons';
@@ -53481,7 +53481,7 @@ input[type='checkbox'].switch, input[type='radio'].switch {
   right : -400px;
   padding : 0;
   background-color : #FFFFFF;
-  z-index : 1051;
+  z-index : 851;
   position : fixed;
   top : 0;
   bottom : 0;

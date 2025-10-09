@@ -1181,7 +1181,7 @@
     /**
      * Thanks to Jason Bunting / Alex Nazarov via StackOverflow.com
      *
-     * http://stackoverflow.com/a/4351575
+     * https://stackoverflow.com/a/4351575
      **/
     function executeFunctionByName(functionName, context /*, args */) {
         var args = Array.prototype.slice.call(arguments, 2);

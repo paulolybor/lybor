@@ -5,7 +5,7 @@
     Item Name: Convex - Bootstrap 4 HTML Admin Dashboard Template
     Version: 1.0
     Author: PIXINVENT
-    Author URL: http://www.themeforest.net/user/pixinvent
+    Author URL: https://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
 
 // chartist chart

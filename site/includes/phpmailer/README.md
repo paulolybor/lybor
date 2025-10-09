@@ -26,7 +26,7 @@ The PHP mail() function usually sends via a local mail server, typically fronted
 
 ## License
 
-This software is licenced under the [LGPL 2.1](http://www.gnu.org/licenses/lgpl-2.1.html). Please read LICENSE for information on the
+This software is licenced under the [LGPL 2.1](https://www.gnu.org/licenses/lgpl-2.1.html). Please read LICENSE for information on the
 software availability and distribution.
 
 ## Installation
@@ -80,7 +80,7 @@ You'll find plenty more to play with in the `examples` folder.
 That's it. You should now be ready to use PHPMailer!
 
 ## Localization
-PHPMailer defaults to English, but in the `languages` folder you'll find numerous translations for PHPMailer error messages that you may encounter. Their filenames contain [ISO 639-1](http://en.wikipedia.org/wiki/ISO_639-1) language code for the translations, for example `fr` for French. To specify a language, you need to tell PHPMailer which one to use, like this:
+PHPMailer defaults to English, but in the `languages` folder you'll find numerous translations for PHPMailer error messages that you may encounter. Their filenames contain [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) language code for the translations, for example `fr` for French. To specify a language, you need to tell PHPMailer which one to use, like this:
 
 ```php
 // To load the French version
@@ -89,7 +89,7 @@ $mail->SetLanguage('fr', '/optional/path/to/language/directory/');
 
 ## Documentation
 
-You'll find some basic user-level docs in the docs folder, and you can generate complete API-level documentation using the `generatedocs.sh` shell script in the docs folder, though you'll need to install [PHPDocumentor](http://www.phpdoc.org) first.
+You'll find some basic user-level docs in the docs folder, and you can generate complete API-level documentation using the `generatedocs.sh` shell script in the docs folder, though you'll need to install [PHPDocumentor](https://www.phpdoc.org) first.
 
 ## Tests
 
@@ -116,7 +116,7 @@ Please *don't* use the SourceForge or Google Code projects any more.
 See changelog.md
 
 ## History
-- PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](http://sourceforge.net/projects/phpmailer/).
+- PHPMailer was originally written in 2001 by Brent R. Matzelle as a [SourceForge project](https://sourceforge.net/projects/phpmailer/).
 - Marcus Bointon (coolbru on SF) and Andy Prevost (codeworxtech) took over the project in 2004.
 - Became an Apache incubator project on Google Code in 2010, managed by Jim Jagielski.
 - Marcus created his fork on [GitHub](https://github.com/Synchro/PHPMailer).

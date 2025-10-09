@@ -63,7 +63,8 @@
           
           <div class="texto" id="page-cultura-lybor" style="margin-bottom: 10px;">
             <h3 class="n-valores"> Código de Conduta e Valores Morais e Profissionais </h3>
-            <p style="padding-top: 10px;">
+            <p style="padding-top: 8px;"><a href="Codigo-de-Conduta-e-Valores-Morais-e-Profissionais-Lybor-Landgraf.php"> Clique aqui para ver o Código de Conduta e Valores Morais e Profissionais.</a></p>
+            <p style="padding-top: 0px;">
             <span style="display: inline; font-weight: 700; color:#4d4d4d;">1.</span> Profissionalismo na acepção terminológica e técnica do termo, com vigilância e obediência às normas corporativas e regras <i>interna corporis</i> de trabalho, organização e execução em equipe, com sinergia, checklist e obediência às regras contidas nos escritos pelo advogado titular e fundador, Péricles Landgraf, mantendo-se, assim, a originalidade e o talento pessoal do escritor, pois trata-se de uma obra de direito autoral, de natureza técnico cientifica.</p>
               <p>Este controle rígido está declinado em circulares que solicitava que os advogados corporativos e diretores não alterassem o teor original dos escritos em cada peça de petição inicial da ação ordinária, da impugnação e das cautelares, da Apelação e demais recursos pertinentes.</p>
               <p>As petições interlocutórias importantes como nomeação de bem a penhora, oferecimento de caução e quesitos de perícia, também eram protegidos para não alteração da “obra intelectual”, tanto na essência, bem como na aparência da petição, que leva uma ordem de apresentação, desde a cor do papel, tamanho de letra, tipo de letra e selos de qualidade e definição das linhas e parágrafos, com ressalvas em azul quando trata-se de jurisprudência e em vermelho quando trata-se alerta de continência e conexão bem como quanto à publicação, que deverá ser somente em nome de PÉRICLES LANDGRAF ARAÚJO DE OLIVEIRA, titular do escritório, para efeito de responsabilidade profissional diante do cliente que está como patrono na defesa de seus interesses e no resguardo e perseguição de seus direitos violados.</p>
@@ -247,6 +248,7 @@
           <div class="texto" id="page-cultura-lybor" style="margin-bottom: 10px;">
             <h3 class="n-valores"> Code of Conduct and Moral and Professional Values </h3>
             <p style="padding-top: 10px;">
+              <!-- <p><a href="assets/pdf/Codigo-de-Conduta-e-Valores-Morais-e-Profissionais-Lybor-Landgraf.pdf"> Clique aqui e baixe o Código de Conduta e Valores Morais e Profissionais</a></p> -->
             <span style="display: inline; font-weight: 700; color:#4d4d4d;">1.</span> Professionalism in the terminological and technical sense of the term, with vigilance and obedience to corporate norms and interna corporis rules of work, organization and team execution, with synergy, checklist and obedience to the rules contained in the writings by the titular and founding lawyer, Péricles Landgraf, thus maintaining the originality and personal talent of the writer, since it is a work of copyright, of a technical scientific nature.</p>
               <p>This strict control is set out in circulars, which request that corporate lawyers and directors do not alter the original content of the writs in each of the initial petitions for ordinary actions, challenges and precautionary measures, appeals and other pertinent appeals.</p>
               <p>Important interlocutory petitions, such as the nomination of an asset for seizure, the offering of security and expert opinions, were also protected so as not to alter the "intellectual work", both in essence and in the appearance of the petition, which is presented in a certain order, from the color of the paper, font size, typeface and quality stamps to the definition of the lines and paragraphs, with exceptions in blue when it comes to case law and in red when it comes to continence and connection alerts, as well as publication, which should only be in the name of PÉRICLES LANDGRAF ARAÚJO DE OLIVEIRA, head of the firm, for the purpose of professional responsibility towards the client who is acting as patron in defense of his interests and in the protection and pursuit of his violated rights.</p>
@@ -432,6 +434,7 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
             <div class="texto" id="page-cultura-lybor" style="margin-bottom: 10px;">
             <h3 class="n-valores"> مدونة السلوك والقيم الأخلاقية والمهنية </h3>
             <p style="padding-top: 10px;">
+              <!-- <p><a href="assets/pdf/Codigo-de-Conduta-e-Valores-Morais-e-Profissionais-Lybor-Landgraf.pdf"> Clique aqui e baixe o Código de Conduta e Valores Morais e Profissionais</a></p> -->
             <span style="display: inline; font-weight: 700; color:#4d4d4d;">1.</span> الاحترافية بالمعنى الاصطلاحي والتقني للكلمة، مع اليقظة والالتزام بالمعايير المؤسسية وقواعد العمل الداخلية، والتنظيم والعمل الجماعي، مع التآزر وقوائم التحقق والالتزام بالقواعد الواردة في مؤلفات المحامي المؤسس بيركليس لاندغراف، مما يحافظ على أصالة وموهبة الكاتب الشخصية، حيث أن هذا العمل محمي بحقوق النشر وله طابع علمي تقني.</p>
               <p>يتم توضيح هذا التحكم الصارم في التعاميم التي تطلب من المحامين والمديرين عدم تغيير المحتوى الأصلي للوثائق في كل من الطلبات الأولية للدعاوى العادية، والطعون، والإجراءات التحفظية، والاستئنافات وغيرها من الطعون ذات الصلة.</p>
               <p>كما تم حماية الطلبات التكميلية الهامة مثل تعيين الأصول للحجز، وتقديم الضمانات، والتقارير الفنية، حتى لا يتم تغيير "العمل الفكري"، سواء في الجوهر أو في مظهر الطلب، الذي يتم تقديمه بترتيب معين، من لون الورق، وحجم الخط، ونوع الخط، وأختام الجودة، وتحديد الأسطر والفقرات، مع استثناءات باللون الأزرق عند الإشارة إلى السوابق القضائية، وباللون الأحمر عند الإشارة إلى التنبيهات، وكذلك النشر الذي يجب أن يكون فقط باسم بيركليس لاندغراف أراوجو دي أوليفيرا، رئيس المكتب، لأغراض المسؤولية المهنية تجاه العميل الذي يدافع عن مصالحه وحقوقه المنتهكة.</p>
@@ -580,7 +583,7 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
 <!-- SESSÃO OFFICE -->
 
         <div class="row">
-            <div class="col-md-12" style="padding:20px;">
+            <div style="padding:20px;">
             <?php include('modules/office.php'); ?>
             </div>
         </div>

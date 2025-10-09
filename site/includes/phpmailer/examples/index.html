@@ -11,11 +11,11 @@
 <p>When working on email sending code you'll find yourself worrying about what might happen if all these test emails got sent to your mailing list. The solution is to use a fake mail server, one that acts just like the real thing, but just doesn't actually send anything out. Some offer web interfaces, feedback, logging, the ability to return specific error codes, all things that are useful for testing error handling, authentication etc. Here's a selection of mail testing tools you might like to try:</p>
 <ul>
   <li><a href="https://github.com/isotoma/FakeEmail">FakeEmail</a>, a Python-based fake mail server with a web interface.</li>
-  <li><a href="http://www.postfix.org/smtp-sink.1.html">smtp-sink</a>, part of the Postfix mail server, so you probably already have this installed. This is used in the Travis-CI configuration to run PHPMailer's unit tests.</li>
+  <li><a href="https://www.postfix.org/smtp-sink.1.html">smtp-sink</a>, part of the Postfix mail server, so you probably already have this installed. This is used in the Travis-CI configuration to run PHPMailer's unit tests.</li>
   <li><a href="https://github.com/Nilhcem/FakeSMTP">FakeSMTP</a>, a Java desktop app with the ability to show an SMTP log and save messages to a folder.</li>
-  <li><a href="http://smtp4dev.codeplex.com">smtp4dev</a>, a dummy SMTP server for Windows.</li>
+  <li><a href="https://smtp4dev.codeplex.com">smtp4dev</a>, a dummy SMTP server for Windows.</li>
   <li><a href="https://github.com/PHPMailer/PHPMailer/blob/master/test/fakesendmail.sh">fakesendmail.sh</a>, part of PHPMailer's test setup, this is a shell script that emulates sendmail for testing 'mail' or 'sendmail' methods in PHPMailer.</li>
-  <li><a href="http://tools.ietf.org/tools/msglint/">msglint</a>, not a mail server, the IETF's MIME structure analyser checks the formatting of your messages.</li>
+  <li><a href="https://tools.ietf.org/tools/msglint/">msglint</a>, not a mail server, the IETF's MIME structure analyser checks the formatting of your messages.</li>
 </ul>
 <div style="padding: 8px; color: #333333; background-color: #dc8b92">
 <h2>Security note</h2>
@@ -40,6 +40,6 @@
 <h2><a href="mailing_list.phps">mailing_list.phps</a></h2>
 <p>This is a somewhat naïve example of sending similar emails to a list of different addresses. It sets up a PHPMailer instance using SMTP, then connects to a MySQL database to retrieve a list of recipients. The code loops over this list, sending email to each person using their info and marks them as sent in the database. It makes use of SMTP keepalive which saves reconnecting and re-authenticating between each message.</p>
 <hr>
-<p>Most of these examples use the 'example.com' domain. This domain is reserved by IANA for illustrative purposes, as documented in <a href="http://tools.ietf.org/html/rfc2606">RFC 2606</a>. Don't use made-up domains like 'mydomain.com' or 'somedomain.com' in examples as someone, somewhere, probably owns them!</p>
+<p>Most of these examples use the 'example.com' domain. This domain is reserved by IANA for illustrative purposes, as documented in <a href="https://tools.ietf.org/html/rfc2606">RFC 2606</a>. Don't use made-up domains like 'mydomain.com' or 'somedomain.com' in examples as someone, somewhere, probably owns them!</p>
 </body>
 </html>

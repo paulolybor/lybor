@@ -5,7 +5,7 @@
     Item Name: Convex - Bootstrap 4 HTML Admin Dashboard Template
     Version: 1.0
     Author: PIXINVENT
-    Author URL: http://www.themeforest.net/user/pixinvent
+    Author URL: https://www.themeforest.net/user/pixinvent
 ==========================================================================================*/
 
 (function(window, document, $) {
@@ -71,7 +71,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28'
 				}
 			]
@@ -141,7 +141,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28'
 				}
 			]
@@ -212,7 +212,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28'
 				}
 			]
@@ -359,7 +359,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28',
 					color: '#3BAFDA'
 				}
@@ -445,7 +445,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28',
 					color: '#3BAFDA'
 				}
@@ -563,7 +563,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28'
 				}
 			]
@@ -577,7 +577,7 @@
 
 			// THIS KEY WON'T WORK IN PRODUCTION!!!
 			// To make your own Google API key, follow the directions here:
-			// http://fullcalendar.io/docs/google_calendar/
+			// https://fullcalendar.io/docs/google_calendar/
 			googleCalendarApiKey: 'AIzaSyAAZnaZBXLqNBRXjd-82km_NO7GUItyKek',
 
 			// US Holidays
@@ -691,7 +691,7 @@
 				},
 				{
 					title: 'Click for Google',
-					url: 'http://google.com/',
+					url: 'https://google.com/',
 					start: '2018-08-28'
 				}
 			]

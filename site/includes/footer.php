@@ -271,7 +271,7 @@
 <!--	<div class="popup-wrapper">
 	<button class="popup-close"><i class="fa fa-times"></i></button>
 	<img class="img-responsive" src="/popup.png">
-	<button class="botao-popup"><a href="http://lybor.com.br/contato/" style="color: #ffbe00;"><b>CLIQUE AQUI<b></a></button>
+	<button class="botao-popup"><a href="https://lybor.com.br/contato/" style="color: #ffbe00;"><b>CLIQUE AQUI<b></a></button>
 	    
 
 	</div>
