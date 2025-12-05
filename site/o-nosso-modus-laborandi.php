@@ -60,7 +60,7 @@
               Quantos e quantos casos no Brasil existem como este e se não for um especialista na matéria para atuar na recuperação destes valores pagos ILEGALMENTE,
               nunca se chegará à verdade da <span class="italico">mens legis</span> nesta especialidade de Dívidas de Fomento e Dívidas com Bancos em Geral. A
               expertise de um especialista pode salvar o cliente da ruína financeira e fazer a verdadeira Justiça. Este é o perfil do
-              <span class="italico">modus laborandi</span> da LYBOR LANDGRAF como especialista nesta área de DÍVIDAS.
+              <span class="italico">modus laborandi</span> da LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS como especialista nesta área de DÍVIDAS.
             </p>
           </div>
 
@@ -108,7 +108,7 @@
               How many and how many cases like this exist in Brazil and if you are not an expert in the matter to act in the recovery of these amounts paid ILLEGALLY,
               never get to the truth <span class="italico">mens legis</span> in this specialty of Development Debts and Debts with Banks in General. THE
               An expert's expertise can save the client from financial ruin and do true justice. This is the profile of
-              <span class="italico">modus laborandi</span> of LYBOR LANDGRAF as a specialist in this area of DEBT.
+              <span class="italico">modus laborandi</span> of LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS as a specialist in this area of DEBT.
             </p>
           </div>
           <!-- FIM TEXTO INGLES -->

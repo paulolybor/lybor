@@ -31,7 +31,7 @@
             <img class="a-historia" src="assets/img/pericles-e-amanda-landgraf-01.jpg">
             <p>
               O fundador da Lybor e advogado titular, Péricles Landgraf, teve formação jurídica pela Universidade de São Paulo - USP (1986 - 1991). Tudo começou com uma revelação, quando ele, tendo direção do Espírito de Deus, foi pioneiro no atendimento à agricultura nacional num momento histórico de grande crise financeira e econômica, época iminente de perigo de transferência dos meios de produção dos agricultores para os banqueiros. A história da Lybor se mistura com a história da crise da agricultura nacional dos anos 2000, quando o nosso presidente numa atitude visionária investigou como jurista quais eram os limites da legalidade e dos
-              direitos dos produtores rurais nacionais nas relações de empréstimos financeiros com os bancos para custear as lavouras agrícolas. A Lybor Landgraf foi
+              direitos dos produtores rurais nacionais nas relações de empréstimos financeiros com os bancos para custear as lavouras agrícolas. A Lybor Landgraf | Landgraf Advogados Associados foi
               e tem sido um baluarte na proteção destes direitos ligados à produção de alimentos no Brasil.
             </p>
             <p>

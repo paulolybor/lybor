@@ -6,7 +6,7 @@
 
     <meta name="keywords" content="agronegocio, agronegócio, divida, agricola, agraria, rural, contas, dívidas, dividas, dívida, agrícola, bancos, renegociação, renegociacao, produtor rural, divida com bancos" />
     <meta name="robots" content="index,follow" />
-    <title>Lybor Landgraf Advocacia | 5 Prêmios Nacionais</title>
+    <title>Lybor Landgraf Advocacia | Landgraf Advogados Associados</title>
 
        <!-- <meta name="description" content="Advocacia especializada em soluções jurídicas no Agronegócio Brasileiro e na Defesa da Agricultura Nacional." /> -->
        <meta name="description" content="Defesa dos Produtores  Rurais | Defesa  da Agricultura Nacional" />
@@ -17,8 +17,8 @@
     <meta name="msapplication-TitleImage" content="https://lybor.com.br/cdn/img/logo.jpg">
     
     <!-- for Facebook & Whatsapp -->
-    <meta property="og:site_name" content="LYBOR LANDGRAF">
-    <meta property="og:title" content="Lybor Landgraf Advocacia | 5 Prêmios Nacionais">
+    <meta property="og:site_name" content="LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS">
+    <meta property="og:title" content="Lybor Landgraf Advocacia | Landgraf Advogados Associados">
     <meta property="og:description" content="Defesa dos Produtores  Rurais | Defesa  da Agricultura Nacional">
     
     <!-- image to display -->

@@ -31,11 +31,11 @@
             <br>
             <h3> A Área de Atuação </h3>
             <p>
-              Os advogados da LYBOR LANDGRAF são especialistas na área de Crédito de Fomento e Direito Bancário.
+              Os advogados da LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS são especialistas na área de Crédito de Fomento e Direito Bancário.
             </p>
 
             <p>
-              O Dr. Péricles Landgraf, além de estar à disposição de novos clientes para consulta e contratação, juntamente com sua equipe de experts de mais de dezenas de profissionais na Central Jurídica de Maringá - PR e com sua equipe de centenas de profissionais associados em todos os Estados da Federação do Brasil (temos + de 17.000 mil processos em revisão judicial), sempre está à disposição dos clientes Lybor Landgraf para todo suporte à realização de um serviço de excelência na advocacia.
+              O Dr. Péricles Landgraf, além de estar à disposição de novos clientes para consulta e contratação, juntamente com sua equipe de experts de mais de dezenas de profissionais na Central Jurídica de Maringá - PR e com sua equipe de centenas de profissionais associados em todos os Estados da Federação do Brasil (temos + de 17.000 mil processos em revisão judicial), sempre está à disposição dos clientes Lybor Landgraf | Landgraf Advgoados Associados para todo suporte à realização de um serviço de excelência na advocacia.
             </p>
             
             <img class="a-area" src="assets/img/Card_Dr_Pericles_Landgraf.jpg" style="margin-bottom: 13px;">

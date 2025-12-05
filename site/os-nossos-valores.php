@@ -27,7 +27,7 @@
               <img class="valores-img-1" src="assets/img/paulo-braga.jpg">
 
             <p>
-            A Lybor e as empresas da holding Oxycer S.A adotam o princípio da meritocracia para avaliação e carreira do staff corporativo. Valorizamos o trabalho árduo, profissional, na acepção técnica do termo, e a eficiência. Para nós, o ser humano é a peça mais importante da engrenagem. Venha fazer uma brilhante carreira conosco. 
+            A Lybor e as empresas da holding Oxycer S.A adotam o princípio da meritocracia para avaliação e carreira do staff corporativo. Valorizamos o trabalho árduo, profissional, na acepção técnica do termo, e a eficiência. Para nós, o ser humano é a peça mais importante da engrenagem. Venha fazer uma brilhante carreira conosco! 
             </p>
 
             <!-- bloco de fotos -->
@@ -43,7 +43,7 @@
           <p>
               Com base na meritocracia, fidelidade e compromisso com os principais valores
               de nossa cultura empresarial, lealdade, humildade, verdade e dedicação, temos uma brilhante carreira esperando por você
-              que quer trabalhar na Lybor Landgraf.
+              que quer trabalhar na Lybor Landgraf | Landgraf Advogados Associados.
             </p>
           </div>
         </div>
@@ -71,9 +71,9 @@
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">2.</span> Código de Ética Profissional Baseado no Estatuto da OAB do Brasil.</p>
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">3.</span> Compliance diário através da hierarquia na equipe e regramentos buscando a excelência, positivando as regras e os treinamentos através de CIRCULARES INTERNAS e treinamento tipo minipalestra para anunciar e implantar detalhes de <i>modus laborandi</i> na equipe, para todos estarem alinhados nas informações diariamente tomadas quando necessário.</p>
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">4.</span> Controle Rígido do Conteúdo das Petições.</p>
-              <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">5.</span> Todas esta ORDEM e ORGANIZAÇÃO foram criados e implantados pelo fundador e advogado titular, quando à ideia, criação e coordenação da implantação pela equipe do Departamento Administrativo e Departamento Jurídico da LYBOR LANDGRAF, inclusive as REGRAS RÍGIDAS de gerentes de prazos e as de distribuição de casos, que devem obedecer a dinâmica de um documento interno, no qual o Diretor Jurídico preenche para orientar o Advogado Corporativo em que CASO CONCRETO DA LYBOR, ele deverá se basear pegando a MINUTA da petição para iniciar a nova petição desde cliente novo para que, após pronta, com todos os documentos a serem juntados, baseados no checklist de documentos, esta petição volta com esta documentação na mesa do Diretor Jurídico que terá o dever profissional de revisar na checagem se nada foi violado na escrita originária de Péricles Landgraf, e se não houve alterações na aparência da petição que deve obedecer tipo de letra, tamanho de letra, margem, estética na citação, conforme modelo abaixo.</p>
+              <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">5.</span> Todas esta ORDEM e ORGANIZAÇÃO foram criados e implantados pelo fundador e advogado titular, quando à ideia, criação e coordenação da implantação pela equipe do Departamento Administrativo e Departamento Jurídico da LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS, inclusive as REGRAS RÍGIDAS de gerentes de prazos e as de distribuição de casos, que devem obedecer a dinâmica de um documento interno, no qual o Diretor Jurídico preenche para orientar o Advogado Corporativo em que CASO CONCRETO DA LYBOR, ele deverá se basear pegando a MINUTA da petição para iniciar a nova petição desde cliente novo para que, após pronta, com todos os documentos a serem juntados, baseados no checklist de documentos, esta petição volta com esta documentação na mesa do Diretor Jurídico que terá o dever profissional de revisar na checagem se nada foi violado na escrita originária de Péricles Landgraf, e se não houve alterações na aparência da petição que deve obedecer tipo de letra, tamanho de letra, margem, estética na citação, conforme modelo abaixo.</p>
               
-              <h3>Código <i>Interna Corporis</i> de Conduta e de Valores Morais e Profissionais Lybor Landgraf</h3>
+              <h3>Código <i>Interna Corporis</i> de Conduta e de Valores Morais e Profissionais Lybor Landgraf | Landgraf Advogados Associados</h3>
               <p>1. Ética de Advogado baseado no Estatuto da Ordem dos Advogados do Brasil e Código de Ética Profissional.</p>
               <p>2. Código de Conduta Moral baseado em</p>
               <p>2.1. RETIDÃO DE ESPÍRITO </p>
@@ -87,7 +87,7 @@
               <p>2.3.4. Profissionalismo, estudo cientifico e dedicação constante.</p>
 
               <h3>Código de Ética Moral</h3>
-              <p>O advogado titular e fundador da Lybor Landgraf sempre adotou princípios de conduta moral e profissional tendo como regra maior a BIBLIA SAGRADA.</p>
+              <p>O advogado titular e fundador da Lybor Landgraf | Landgraf Advogados Associados sempre adotou princípios de conduta moral e profissional tendo como regra maior a BIBLIA SAGRADA.</p>
               <p>Valores de conduta alinhados com os 10 mandamento de Deus-Criador (Pai de nosso Senhor Jesus Cristo):</p>
               <p>Êxodo 20: 1-17 | Versão King James</p>
               <p>
@@ -114,7 +114,7 @@
               <p>“E será que, se ouvires a voz do SENHOR teu Deus, tendo cuidado de guardar todos os seus mandamentos que eu hoje te ordeno, o SENHOR teu Deus te exaltará sobre todas as nações da terra.” (Deuteronômio 28)</p>
               <p>Código de conduta baseado em atributos indeléveis do Céu nas regras espirituais do céu de amor ao próximo:</p>
               <p>“Ainda que eu fale as línguas dos homens e dos anjos, se não tiver amor, serei como o sino que ressoa ou como o prato que retine.” (1 Coríntios 13)</p>
-              <p>E, no interior do coração e do espírito do implantador deste Código de Conduta e de Valores Morais e Profissionais, lembra-se que a LYBOR LANDGRAF, em sua segunda etapa, maio de 1999 até os dias de hoje, sempre esteve pautada na obediência aos Detanos de Deus, pois ela começou esta nova etapa de advogar somente em matéria de direito, para não cair em engano  de mentiras em processos que envolviam FATOS E MENTIRAS E VERDADES, para a parit de maio de 1999, quando o titular e fundador da LYBOR, PÉRICLES LANDGRAF, recebeu a PROMESSA DO ESPÍRITO SANTO, e tomou decisão de somente advogar em matéria eminentemente de DIREITO e não de FATOS e seguir os princípios do nascimento de novo no espírito pelo Espírito Santo (“E eis que sobre vós envio a promessa de meu Pai; ficai, porém, na cidade de Jerusalém, até que do alto sejais revestidos de poder.” Lucas 24:49)</p>
+              <p>E, no interior do coração e do espírito do implantador deste Código de Conduta e de Valores Morais e Profissionais, lembra-se que a LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS, em sua segunda etapa, maio de 1999 até os dias de hoje, sempre esteve pautada na obediência aos Detanos de Deus, pois ela começou esta nova etapa de advogar somente em matéria de direito, para não cair em engano  de mentiras em processos que envolviam FATOS E MENTIRAS E VERDADES, para a parit de maio de 1999, quando o titular e fundador da LYBOR, PÉRICLES LANDGRAF, recebeu a PROMESSA DO ESPÍRITO SANTO, e tomou decisão de somente advogar em matéria eminentemente de DIREITO e não de FATOS e seguir os princípios do nascimento de novo no espírito pelo Espírito Santo (“E eis que sobre vós envio a promessa de meu Pai; ficai, porém, na cidade de Jerusalém, até que do alto sejais revestidos de poder.” Lucas 24:49)</p>
              
               <p>Resumo dos principais valores Morais e Espirituais que adotamos em nosso Código de Conduta Moral, Profissional e Espiritual.</p>
 
@@ -152,13 +152,12 @@
                 <p><a href="https://www.planalto.gov.br/ccivil_03/leis/l8906.htm"><b>Clique aqui e leia o Código de Ética na ìntegra</b></a></p>
                 
 
-              <p>Código de Conduta Lybor Landgraf e Relação com os Clientes</p>
+              <p>Código de Conduta Lybor Landgraf | Landgraf Advogados Associados e Relação com os Clientes</p>
 
-              <p>Com aplicação prática destes princípios éticos, morais e profissionais, com vigilância, dedicação, aperfeiçoamento, excelência em profissionalismo, caráter ético incorruptível, temor à lei dos homens e à Lei do Céu (Bíblia), podemos dizer que nossos clientes podem confiar em nós da Lybor Landgraf, lembrando que o advogado titular e fundador é o profissional que cria as petições (é o cirurgião que faz a cirurgia em matéria de Direito e são as petições que dão vitória aos clientes) e também que implantou e vem lutando para mantes e defender o nosso maior patrimônio que é a nossa marca, pois a Lybor Landgraf representa uma BANCA DE ADVOGADOS ÉTICOS E EXPERTS NA DEFESA DA AGRICULTURA NACIONAL.</p>
+              <p>Com aplicação prática destes princípios éticos, morais e profissionais, com vigilância, dedicação, aperfeiçoamento, excelência em profissionalismo, caráter ético incorruptível, temor à lei dos homens e à Lei do Céu (Bíblia), podemos dizer que nossos clientes podem confiar em nós da Lybor Landgraf | Landgraf Advogados Associados, lembrando que o advogado titular e fundador é o profissional que cria as petições (é o cirurgião que faz a cirurgia em matéria de Direito e são as petições que dão vitória aos clientes) e também que implantou e vem lutando para mantes e defender o nosso maior patrimônio que é a nossa marca, pois a Lybor Landgraf | Landgraf Advogados Associados representa uma BANCA DE ADVOGADOS ÉTICOS E EXPERTS NA DEFESA DA AGRICULTURA NACIONAL.</p>
 
               <p style="text-align: center; padding-top:15px;">Dr. Péricles Landgraf Araújo de Oliveira<br>
-              Advogado Titular e Fundador da Lybor Landgraf<br>
-              (Landgraf Advogados Associados)<br>
+              Advogado Titular e Fundador da Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 18.294 – OAB/SP 240.943 – OAB/MT 6.005A <br>
               OAB/MS 7.985A – OAB/DF 38.847 – OAB/GO 26.968 <br>
               OAB/MG 110.111 – OAB/TO 5.773A – OAB/MA 10.112A <br>
@@ -168,30 +167,26 @@
               </p>
 
               <p style="text-align: center; padding-top:15px;">Dra. Amanda Landgraf Araújo de Oliveira<br>
-              Diretora de Compliance e Trust Law | Lybor Landgraf<br>
-              (Landgraf Advogados Associados)<br>
+              Diretora de Compliance e Trust Law | Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 121.237 – OAB/SP 411.603</span>
                 </strong>
               </p>
 
 
               <p style="text-align: center; padding-top:15px;">Dra. Kellen Cristina Bombonato Santos<br>
-              Sócia e Diretora Jurídica Geral | Lybor Landgraf<br>
-              (Landgraf Advogados Associados)<br>
+              Sócia e Diretora Jurídica Geral | Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/MG 198.633 - OAB/PR 36.778 - OAB/SP 359.669</span>
               </strong>
               </p>
               
               <p style="text-align: center; padding-top:15px;">Dr. Rodrigo Araújo Gracindo de Oliveira<br>
-              Diretor Operacional | Lybor Landgraf<br>
-              (Landgraf Advogados Associados)<br>
+              Diretor Operacional | Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 73.052</span>
               </strong>
               </p>
 
               <p style="text-align: center; padding-top:15px;">Dra. Jozelene Ferreira de Andrade<br>
-              Advogada-Sócia Sênior | Lybor Landgraf<br>
-              (Landgraf Advogados Associados)<br>
+              Advogada-Sócia Sênior | Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 41.737 - OAB/SP 359.667 - OAB/MG 234.285</span>
               </strong>
               </p>
@@ -230,7 +225,7 @@
           <!-- bloco de fotos -->
           <h3 class="n-valores"> Careers </h3>
           <p>
-          Based on meritocracy, loyalty and commitment to the main values of our corporate culture of our corporate culture, loyalty, humility, truth and dedication, we have a brilliant career waiting for you who want to work at Lybor Landgraf.
+          Based on meritocracy, loyalty and commitment to the main values of our corporate culture of our corporate culture, loyalty, humility, truth and dedication, we have a brilliant career waiting for you who want to work at Lybor Landgraf | Landgraf Advogados Associados.
             </p>
           </div>
         </div>
@@ -255,9 +250,9 @@
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">2.</span> Code of Professional Ethics Based on the Statute of the Brazilian Bar Association.</p>
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">3.</span> Daily compliance through hierarchy in the team and rules seeking excellence, making the rules and training positive through INTERNAL CIRCULARS and mini-lecture type training to announce and implant details of <i>modus laborandi</i> in the team, so that everyone is aligned in the information taken daily when necessary.</p>
               <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">4.</span> . Strict control of the content of petitions.</p>
-              <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">5.</span> All of this ORDER and ORGANIZATION was created and implemented by the founder and head lawyer, when the idea, creation and coordination of the implementation by the team of the Administrative Department and Legal Department of LYBOR LANDGRAF, including the RIGID RULES of deadline managers and those of case distribution, which must obey the dynamics of an internal document, in which the Legal Director fills out to guide the Corporate Lawyer in which CONCRETE CASE OF LYBOR, he must base himself on, taking the MINUTE of the petition to start the new petition from the new client so that, once it is ready, with all the documents to be attached, based on the checklist of documents, this petition returns with this documentation to the desk of the Legal Director who will have the professional duty of reviewing it to check that nothing has been violated in the original writing of Péricles Landgraf, and that there have been no changes in the appearance of the petition that must comply with font, font size, margin, aesthetics in the citation, according to the model below.</p>
+              <p><span style="display: inline; font-weight: 700; color:#4d4d4d;">5.</span> All of this ORDER and ORGANIZATION was created and implemented by the founder and head lawyer, when the idea, creation and coordination of the implementation by the team of the Administrative Department and Legal Department of LYBOR LANDGRAF | Landgraf Advogados Associados, including the RIGID RULES of deadline managers and those of case distribution, which must obey the dynamics of an internal document, in which the Legal Director fills out to guide the Corporate Lawyer in which CONCRETE CASE OF LYBOR, he must base himself on, taking the MINUTE of the petition to start the new petition from the new client so that, once it is ready, with all the documents to be attached, based on the checklist of documents, this petition returns with this documentation to the desk of the Legal Director who will have the professional duty of reviewing it to check that nothing has been violated in the original writing of Péricles Landgraf, and that there have been no changes in the appearance of the petition that must comply with font, font size, margin, aesthetics in the citation, according to the model below.</p>
               
-              <h3><i>Interna Corporis</i> Code of Conduct and Moral and Professional Values Lybor Landgraf</h3>
+              <h3><i>Interna Corporis</i> Code of Conduct and Moral and Professional Values Lybor Landgraf | Landgraf Advogados Associados</h3>
               <p>1. Lawyer ethics based on the Brazilian Bar Association Statute and the Code of Professional Ethics.</p>
               <p>2. Code of Moral Conduct based on</p>
               <p>2.1. UPRIGHTNESS OF SPIRIT </p>
@@ -271,7 +266,7 @@
               <p>2.3.5 Professionalism, scientific study and constant dedication.</p>
 
               <h3>Code of Moral Ethics</h3>
-              <p>The titular lawyer and founder of Lybor Landgraf has always adopted principles of moral and professional conduct with the HOLY BIBLE as his main rule.
+              <p>The titular lawyer and founder of Lybor Landgraf | Landgraf Advogados Associados has always adopted principles of moral and professional conduct with the HOLY BIBLE as his main rule.
               Values of conduct in line with the 10 commandments of God the Creator (Father of our Lord Jesus Christ):
               </p>
               <p>Exodus 20: 1-17 | King James Version</p>
@@ -300,7 +295,7 @@
               <p>"And it shall come to pass, if thou wilt hearken unto the voice of the LORD thy God, and wilt observe to do all his commandments which I command thee this day, that the LORD thy God will exalt thee above all the nations of the earth." (Deuteronomy 28)</p>
               <p>Code of conduct based on Heaven's indelible attributes in Heaven's spiritual rules of love of neighbor:</p>
               <p>"Though I speak with the tongues of men and of angels, if I have not love, I am like a clanging bell or a clanging cymbal." (1 Corinthians 13)</p>
-              <p>And in the heart and spirit of the author of this Code of Conduct and Moral and Professional Values, it is recalled that LYBOR LANDGRAF, in its second stage, from May 1999 to the present day, has always been guided by obedience to God's commands, as it began this new stage of advocating only in matters of law, so as not to be deceived by lies in lawsuits involving FACTS AND LIES AND TRUTHS, for the parit of May 1999, when the owner and founder of LYBOR, PÉRICLES LANDGRAF, received the PROMISE OF THE HOLY SPIRIT, and made a decision to only advocate in matters eminently of LAW and not of FACTS and to follow the principles of being born again in the spirit by the Holy Spirit ("And behold, I send the promise of my Father upon you; But tarry ye in the city of Jerusalem, until ye be clothed with power from on high." Luke 24:49)</p>
+              <p>And in the heart and spirit of the author of this Code of Conduct and Moral and Professional Values, it is recalled that LYBOR LANDGRAF | LANDGRAF ADVOGADOS ASSOCIADOS, in its second stage, from May 1999 to the present day, has always been guided by obedience to God's commands, as it began this new stage of advocating only in matters of law, so as not to be deceived by lies in lawsuits involving FACTS AND LIES AND TRUTHS, for the parit of May 1999, when the owner and founder of LYBOR, PÉRICLES LANDGRAF, received the PROMISE OF THE HOLY SPIRIT, and made a decision to only advocate in matters eminently of LAW and not of FACTS and to follow the principles of being born again in the spirit by the Holy Spirit ("And behold, I send the promise of my Father upon you; But tarry ye in the city of Jerusalem, until ye be clothed with power from on high." Luke 24:49)</p>
              
               <p>A summary of the main moral and spiritual values that we have adopted in our Code of Moral, Professional and Spiritual Conduct.</p>
 
@@ -340,13 +335,12 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
                 <p><a href="https://www.planalto.gov.br/ccivil_03/leis/l8906.htm"><b>Click here to read the Code of Ethics in full</b></a></p>
                 
 
-              <p>Lybor Landgraf Code of Conduct and Customer Relations</p>
+              <p>Lybor Landgraf | Landgraf Advogados Associados Code of Conduct and Customer Relations</p>
 
-              <p>With the practical application of these ethical, moral and professional principles, with vigilance, dedication, improvement, excellence in professionalism, incorruptible ethical character, fear of the law of men and the Law of Heaven (Bible), we can say that our clients can trust us at Lybor Landgraf, remembering that the titular and founding lawyer is the professional who creates the petitions (he is the surgeon who performs the surgery in matters of law and it is the petitions that give victory to the clients) and also who implemented and has been fighting to maintain and defend our greatest asset which is our brand, because Lybor Landgraf represents a BANK OF ETHICAL LAWYERS AND EXPERTS IN THE DEFENSE OF NATIONAL AGRICULTURE.</p>
+              <p>With the practical application of these ethical, moral and professional principles, with vigilance, dedication, improvement, excellence in professionalism, incorruptible ethical character, fear of the law of men and the Law of Heaven (Bible), we can say that our clients can trust us at Lybor Landgraf | Landgraf Advogados Associados, remembering that the titular and founding lawyer is the professional who creates the petitions (he is the surgeon who performs the surgery in matters of law and it is the petitions that give victory to the clients) and also who implemented and has been fighting to maintain and defend our greatest asset which is our brand, because Lybor Landgraf | Landgraf Advogados Associados represents a BANK OF ETHICAL LAWYERS AND EXPERTS IN THE DEFENSE OF NATIONAL AGRICULTURE.</p>
 
               <p style="text-align: center; padding-top:15px;">Dr. Péricles Landgraf Araújo de Oliveira<br>
-              Senior Lawyer and Founder | Lybor Landgraf<br>
-              (Landgraf Associated Lawyers)<br>
+              Senior Lawyer and Founder | Lybor Landgraf | Landgraf Associated Lawyers<br>
               OAB/PR 18.294 – OAB/SP 240.943 – OAB/MT 6.005A <br>
               OAB/MS 7.985A – OAB/DF 38.847 – OAB/GO 26.968 <br>
               OAB/MG 110.111 – OAB/TO 5.773A – OAB/MA 10.112A <br>
@@ -356,16 +350,14 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
               </p>
 
               <p style="text-align: center; padding-top:15px;">Dra. Amanda Landgraf Araújo de Oliveira<br>
-              Compliance & Trust Law Director | Lybor Landgraf<br>
-              (Landgraf Associated Lawyers)<br>
+              Compliance & Trust Law Director | Lybor Landgraf | Landgraf Associated Lawyers<br>
               OAB/PR 121.237 – OAB/SP 411.603</span>
                 </strong>
               </p>
 
 
               <p style="text-align: center; padding-top:15px;">Dra. Kellen Cristina Bombonato Santos<br>
-              Associate and General Director | Lybor Landgraf<br>
-              (Landgraf Associated Lawyers)<br>
+              Associate and General Director | Lybor Landgraf |Landgraf Associated Lawyers<br>
               OAB/MG 198.633 - OAB/PR 36.778 - OAB/SP 359.669</span>
               </strong>
               </p>
