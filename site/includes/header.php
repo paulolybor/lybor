@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>Lybor Landgraf Advocacia | 5 Prêmios Nacionais</title>
+    <title>Lybor Landgraf Advocacia | Landgraf Advogados Associados</title>
 
     <noscript>
         <meta http-equiv="refresh" content="0;url=javascript/index.html">
@@ -22,8 +22,8 @@
     <meta name="msapplication-TitleImage" content="https://lybor.com.br/cdn/img/logo.jpg">
     
     <!-- for Facebook & Whatsapp -->
-    <meta property="og:site_name" content="Lybor Landgraf Advocacia | 5 Prêmios Nacionais" />
-    <meta property="og:title" content="Lybor Landgraf Advocacia | 5 Prêmios Nacionais" />
+    <meta property="og:site_name" content="Lybor Landgraf Advocacia | Landgraf Advogados Associados" />
+    <meta property="og:title" content="Lybor Landgraf Advocacia | Landgraf Advogados Associados" />
     <meta property="og:description" content="Defesa dos Produtores  Rurais | Defesa  da Agricultura Nacional" />
     
     <!-- image to display -->
@@ -273,7 +273,7 @@
                         <!-- TEXTO EM PORTUGUÊS -->
                         <?php
                         if ($_SERVER['HTTP_HOST'] == 'pt.lybor.com.br' || $_SERVER['HTTP_HOST'] == 'lybor.com.br' || $_SERVER['HTTP_HOST'] == 'www.lybor.com.br' || $_SERVER['HTTP_HOST'] == 'localhost') { ?>
-                            <a href="/" class="logo"> <img src="assets/img/logo-br.svg" class="logo-img">
+                            <a href="/" class="logo"> <img src="assets/img/logo2.png" class="logo-img">
                             </a>
                             <!-- FIM TEXTO PT -->
                             <!-- TEXTO EM INGLÊS -->

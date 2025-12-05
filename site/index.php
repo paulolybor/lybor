@@ -64,7 +64,7 @@
                 <div class="col-md-6 grid">
                   <div class="completo blocos jornada">
                     <div class="texto">
-                      <p> Lybor Landgraf </p>
+                      <p> Lybor Landgraf | Landgraf Advogados Associados</p>
                       <h4>
                         A nossa advocacia é vencedora do Prêmio Master Cana por<br>
                         quatro anos consecutivos como melhor advocacia do setor.
@@ -126,7 +126,7 @@
                 <div class="col-md-6 grid">
                   <div class="completo blocos jornada">
                     <div class="texto">
-                      <p> Lybor Landgraf </p>
+                      <p> Lybor Landgraf | Landgraf Advogados Associados</p>
                       <h4>
                         Our law firm is the winner of the Master Cana Award for<br>
                         four consecutive years as the best law firm in the sector.
@@ -189,7 +189,7 @@
                 <div class="col-md-6 grid">
                   <div class="completo blocos jornada">
                     <div class="texto">
-                      <p> ليبور لاندغراف </p>
+                     <p> ليبور لاندغراف | محامون لاندغراف المرتبطون </p>
                       <h4>
                         مكتبنا القانوني حائز على جائزة السيد كانا لأربع سنوات متتالية كأفضل مكتب قانوني في القطاع.
                       </h4>

@@ -44,7 +44,6 @@
               Bruno Eidam<br>
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
-              Dayanne Tamashiro<br>
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
@@ -58,6 +57,7 @@
               Marcio Diogo Rodrigues Lopes <br>
               Marco Antônio Araújo Gracindo de Oliveira<br>
               Mônica Landgraf de Vasconcelos<br>
+              Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
               Péricles Landgraf Araújo de Oliveira<br>
@@ -67,13 +67,13 @@
               Vinícius Stanoga<br>
               Vitória Luiza Rossi<br>
               Weslley Leão<br>
-              Yasmim Polsaque de Franca<br>
-              Yasmim Putinati Moraes<br>
             </p>
             <p>
               <br>
               ESTAGIÁRIOS<br>
               <br>
+              Giovana de Souza Valério<br>
+              Leandro Fernandes<br>
               Lívia Sommer de Moraes<br> 
               Maria Fernanda Sachetti de Ganeli<br>
               Sarah Ravaneli dos Santos<br>
@@ -99,10 +99,6 @@
 
               Daniele Modos Barbosa<br>
               OAB/PR 126.501<br>
-              <br>
-
-              Dayanne Tamashiro<br>
-              OAB/PR 59.622<br>
               <br>
 
               Flaviane Simionato<br>
@@ -223,7 +219,6 @@
               Bruno Eidam<br>
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
-              Dayanne Tamashiro<br>
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
@@ -237,6 +232,7 @@
               Marcio Diogo Rodrigues Lopes <br>
               Marco Antônio Araújo Gracindo de Oliveira<br>
               Mônica Landgraf de Vasconcelos<br>
+              Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
               Péricles Landgraf Araújo de Oliveira<br>
@@ -245,14 +241,14 @@
               Thiago Alves de Jesus Braga<br>
               Vinícius Stanoga<br>
               Vitória Luiza Rossi<br>
-              Weslley Leão<br>
-              Yasmim Polsaque de Franca<br>
-              Yasmim Putinati Moraes<br>                  
+              Weslley Leão<br>                 
             </p>
             <p>
               <br>
               INTERNS<br>
               <br>
+              Giovana de Souza Valério<br>
+              Leandro Fernandes<br>
               Lívia Sommer de Moraes<br> 
               Maria Fernanda Sachetti de Ganeli<br>
               Sarah Ravaneli dos Santos<br>
@@ -280,10 +276,6 @@
 
               Daniele Modos Barbosa<br>
               OAB/PR 126.501<br>
-              <br>
-
-              Dayanne Tamashiro<br>
-              OAB/PR 59.622<br>
               <br>
 
               Flaviane Simionato<br>
@@ -404,9 +396,9 @@
                 برونو إيدام<br> <!-- Bruno Eidam -->
                 سينثيا بياتريس ألفيس<br> <!-- Cynthia Beatriz Alves -->
                 دانييلي مودوس باربوزا<br> <!-- Daniele Modos Barbosa -->
-                دايان تاماشيرو<br> <!-- Dayanne Tamashiro -->
                 فلافينيه سيميوناو<br> <!-- Flaviane Simionato -->
                 غابرييل كوستا<br> <!-- Gabriel Costa -->
+                جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valério -->
                 غيلييرمي أوغوستو دي كاسترو<br> <!-- Guilherme Augusto de Castro -->
                 جيسيكا نايارا دا كوستا-بينيا<br> <!-- Jessica Nayara da Costa-Pinha -->
                 جواو باولو دي كارفاليو كريسبيم<br> <!-- João Paulo de Carvalho Crispim -->
@@ -418,6 +410,7 @@
                 مارسيو ديوغو رودريغيس لوبيس<br> <!-- Marcio Diogo Rodrigues Lopez -->
                 ماركو أنطونيو أراوجو غراسيندو دي أوليفيرا<br> <!-- Marco Antonio Araujo Gracindo de Oliveira -->
                 مونيكا لاندغراف دي فاسكونسيلوس<br> <!-- Monica Landgraf de Vasconcelos -->
+                نيكول بيستانا<br> <!-- Nicole Pestana -->
                 باولو كينيدي ناسيمنتو<br> <!-- Paulo Kennedy Nascimento -->
                 باولو روبرتو ألفيس براغا<br> <!-- Paulo Roberto Alves Braga -->
                 بيركليس لاندغراف أراوجو دي أوليفيرا<br> <!-- Pericles Landgraf Araujo de Oliveira -->
@@ -433,6 +426,8 @@
               <br>
                 المتدربون<br>
                 <br>
+                جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valerio -->
+                لياندرو فرنانديز<br> <!-- Leandro Fernandes -->
                 ليفيا سومر دي مورايش<br> <!-- Livya Sommer de Moraes -->
                 ماريا فيرناندا ساشيتي دي غانيلي<br> <!-- Maria Fernanda Sachetti de Ganeli -->
                 سارة رافانيلي دوس سانتوس<br> <!-- Sara Ravanelli dos Santos -->
@@ -455,10 +450,6 @@
 
                 دانييلي مودوس باربوزا<br> <!-- Daniele Modos Barbosa -->
                 OAB/PR 126.501<br>
-
-                دايان تاماشيرو<br> <!-- Dayanne Tamashiro -->
-                OAB/PR 59.622
-                <br>
                 <br>
 
                 فلافينيه سيميوناو<br> <!-- Flaviane Simionato -->
