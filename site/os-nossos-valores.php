@@ -178,12 +178,7 @@
               OAB/MG 198.633 - OAB/PR 36.778 - OAB/SP 359.669</span>
               </strong>
               </p>
-              
-              <p style="text-align: center; padding-top:15px;">Dr. Rodrigo Araújo Gracindo de Oliveira<br>
-              Diretor Operacional | Lybor Landgraf | Landgraf Advogados Associados<br>
-              OAB/PR 73.052</span>
-              </strong>
-              </p>
+            
 
               <p style="text-align: center; padding-top:15px;">Dra. Jozelene Ferreira de Andrade<br>
               Advogada-Sócia Sênior | Lybor Landgraf | Landgraf Advogados Associados<br>
@@ -361,13 +356,7 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
               OAB/MG 198.633 - OAB/PR 36.778 - OAB/SP 359.669</span>
               </strong>
               </p>
-              
-              <p style="text-align: center; padding-top:15px;">Dr. Rodrigo Araújo Gracindo de Oliveira<br>
-              Operational Director | Lybor Landgraf<br>
-              (Landgraf Associated Lawyers)<br>
-              OAB/PR 73.052</span>
-              </strong>
-              </p>
+     
 
               <p style="text-align: center; padding-top:15px;">Dra. Jozelene Ferreira de Andrade<br>
               Senior Associate Lawyer | Lybor Landgraf<br>
@@ -549,13 +538,7 @@ Sole paragraph. The Code of Ethics and Discipline regulates the lawyer's duties 
               OAB/MG 198.633 - OAB/PR 36.778 - OAB/SP 359.669 </span>
               </strong>
               </p>
-              
-              <p style="text-align: center; padding-top:15px;">الدكتور رودريغو أراوجو غراسيندو دي أوليفيرا<br>
-              المدير التشغيلي |  Lybor Landgraf<br>
-              (محامو لاندغراف المتحدون)<br>
-              OAB/PR 73.052</span>
-              </strong>
-              </p>
+             
 
               <p style="text-align: center; padding-top:15px;">الدكتورة جوزلين فيريرا دي أندرادي<br>
               محامية شريكة أولى | Lybor Landgraf<br>

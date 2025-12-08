@@ -52,16 +52,15 @@
               João Vitor de Sousa Andrade<br>
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
+              Lauro Luis Dias Pestana<br>
               Leila Marques Wolf<br>
               Luana Sagradin Tiliaki<br>
               Marcio Diogo Rodrigues Lopes <br>
-              Marco Antônio Araújo Gracindo de Oliveira<br>
               Mônica Landgraf de Vasconcelos<br>
               Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
               Péricles Landgraf Araújo de Oliveira<br>
-              Rodrigo Araújo Gracindo de Oliveira<br>
               Tamires Alves Paixão<br>
               Thiago Alves de Jesus Braga<br>
               Vinícius Stanoga<br>
@@ -154,11 +153,6 @@
               OAB/RN 21.033-A<br>
 
 
-              <br>
-              Rodrigo Araújo Gracindo de Oliveira<br>
-              OAB/PR 73.052<br> 
-              <br>
-
               Tamires Alves Paixão <br>
               OAB/PR 110.065<br>
               <br>
@@ -170,7 +164,7 @@
 
               SÓCIOS MAJORITÁRIOS<br>
               <br>
-              Landgraf Advogados Associados<br>
+              Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 1.187<br>
               <br>
               Péricles Landgraf Araújo de Oliveira<br>
@@ -190,9 +184,6 @@
               OAB/RN 21.033-A<br>
               <br>
 
-              Rodrigo Araújo Gracindo de Oliveira<br>
-              OAB/PR 73.052<br>
-              <br>
 
               Kellen Cristina Bombonato Santos de Araújo<br>
               OAB/MG 198.633<br>
@@ -227,16 +218,15 @@
               João Vitor de Sousa Andrade<br>
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
+              Lauro Luis Dias Pestana<br>
               Leila Marques Wolf<br>
               Luana Sagradin Tiliaki<br>
               Marcio Diogo Rodrigues Lopes <br>
-              Marco Antônio Araújo Gracindo de Oliveira<br>
               Mônica Landgraf de Vasconcelos<br>
               Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
               Péricles Landgraf Araújo de Oliveira<br>
-              Rodrigo Araújo Gracindo de Oliveira<br>
               Tamires Alves Paixão<br>
               Thiago Alves de Jesus Braga<br>
               Vinícius Stanoga<br>
@@ -331,11 +321,6 @@
               OAB/RN 21.033-A<br>
 
 
-              <br>
-              Rodrigo Araújo Gracindo de Oliveira<br>
-              OAB/PR 73.052<br> 
-              <br>
-
               Tamires Alves Paixão <br>
               OAB/PR 110.065<br>
               <br>
@@ -348,7 +333,7 @@
 
               MAJORITY PARTNERS<br>
               <br>
-              Landgraf Advogados Associados<br>
+              Lybor Landgraf | Landgraf Advogados Associados<br>
               OAB/PR 1.187<br>
               <br>
               Péricles Landgraf Araújo de Oliveira<br>
@@ -366,10 +351,6 @@
               OAB/BA 70.006<br>
               OAB/ES 36.487<br>
               OAB/RN 21.033-A<br>
-              <br>
-
-              Rodrigo Araújo Gracindo de Oliveira<br>
-              OAB/PR 73.052<br>
               <br>
 
               Kellen Cristina Bombonato Santos de Araújo<br>
@@ -406,15 +387,14 @@
                 جوزيلين فيريرا دي أندرادي<br> <!-- Jozelene Ferreira de Andrade -->
                 كيلين كريستينا بومبوناتو سانتوس<br> <!-- Kellen Cristina Bombonato Santos -->
                 ليلى ماركيز وولف<br> <!-- Leila Marques Wolf -->
+                لاورو لويس دياس بيستانا<br> <!-- Lauro Luis Dias Pestana -->
                 لوانا ساغرادين تيلياك<br> <!-- Luana Sagradin Tiliaki -->
                 مارسيو ديوغو رودريغيس لوبيس<br> <!-- Marcio Diogo Rodrigues Lopez -->
-                ماركو أنطونيو أراوجو غراسيندو دي أوليفيرا<br> <!-- Marco Antonio Araujo Gracindo de Oliveira -->
                 مونيكا لاندغراف دي فاسكونسيلوس<br> <!-- Monica Landgraf de Vasconcelos -->
                 نيكول بيستانا<br> <!-- Nicole Pestana -->
                 باولو كينيدي ناسيمنتو<br> <!-- Paulo Kennedy Nascimento -->
                 باولو روبرتو ألفيس براغا<br> <!-- Paulo Roberto Alves Braga -->
                 بيركليس لاندغراف أراوجو دي أوليفيرا<br> <!-- Pericles Landgraf Araujo de Oliveira -->
-                رودريغو أراوجو غراسيندو دي أوليفيرا<br> <!-- Rodrigo Araujo Gracindo de Oliveira -->
                 تاميريس ألفيس بايشاو<br> <!-- Tamires Alves Paixao -->
                 تياغو ألفيس دي جيسوس براغا<br> <!-- Thiago Alves de Jesus Braga -->
                 فيتوريا لويزا روسي<br> <!-- Vitoria Luiza Rossi -->
@@ -506,10 +486,6 @@
                 OAB/RN 21.033-A<br>
 
                 <br>
-                رودريغو أراوجو غراسيندو دي أوليفيرا<br> <!-- Rodrigo Araujo Gracindo de Oliveira -->
-                OAB/PR 73.052
-                <br>
-                <br>
 
                 <br>
                 تاميريس ألفيس بايشاو <br> <!-- Tamires Alves Paixao -->
@@ -543,10 +519,6 @@
                 OAB/ES 36.487<br>
                 OAB/RN 21.033-A<br>
                 <br>
-                <br>
-
-                رودريغو أراوجو غراسيندو دي أوليفيرا<br> <!-- Rodrigo Araujo Gracindo de Oliveira -->
-                OAB/PR 73.052
                 <br>
 
                 <br>

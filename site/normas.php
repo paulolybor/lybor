@@ -80,7 +80,7 @@
             <span style="display:block; height: 24px;"></span>
             <div class="pt-3 align-items-center text-center">
 
-              <img src="assets/img/presidencia-e-diretoria-identificado.jpg" width="100%"><br>
+              <img src="assets/img/kellen-landgraf-joze.jpg" width="100%"><br>
               <!-- textos sob fotos
                 <div class="w-100 text-left" style="padding-top:3px;; display: flex; font-family: beausans; font-weight: 600;">
 
