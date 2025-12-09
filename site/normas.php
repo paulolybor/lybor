@@ -37,23 +37,7 @@
             <span style="display:block; height: 24px;"></span>
             <div class="pt-3 align-items-center text-center">
 
-              <img src="assets/img/diretoria-2024.jpg" width="100%"><br>
-              <!-- textos sob fotos
-                <div class="w-100 text-left" style="padding-top:3px;; display: flex; font-family: beausans; font-weight: 600;">
-
-                <div class="textos" style="width:39%; margin-top: 5px; padding: 0px 10px; color: #575757; line-height: 1.2;">Dr. Péricles Landgraf<br>
-                                        <span style="color: #69b8d6">Diretor Presidente </span><br>
-                                        <div style="padding-top:5px;">+55 41 99224 1342</div>
-                                        <span>pericles@lybor.com.br pericles@oxycer.com</span>
-                </div>
-
-                <div class="textos" style="width:30%; margin-top: 5px; padding: 0px 10px; color: #575757; line-height: 1.2;">Dr. Osmar Vasconcelos<br>
-                                        <span style="color: #69b8d6">Diretor Superintendente </span><br>
-                                        <div style="padding-top:5px;">+55 44 99986 6348</div>
-                                        <span>drosmar@lybor.com.br</span>
-                </div> -->
-              <BR>
-              <!-- <a href="https://www.jusbrasil.com.br/processos/nome/28511896/pericles-landgraf-araujo-oliveira" target="_blank" class="bt-leia-mais" style="letter-spacing: .2px;"> Sta<span style="letter-spacing: .8px;">ff</spam> Área Contenciosa Judicial -->
+              <img src="assets/img/kellen-landgraf-joze.jpg" width="100%"><br>
               <a href="a-area-de-atuacao" class="bt-leia-mais" style="letter-spacing: .2px;"> Área Contenciosa Judicial </a>
 
               <img src="assets/img/equipe-lybor.jpg" width="97%" style="border: 7px solid #fff; margin-top:25px; margin-left: -20px;"><br>
@@ -61,9 +45,10 @@
 
           </div>
         </div>
-        <!-- TEXTO EM INGLÊS -->
+
       <?php }
-      if ($_SERVER['HTTP_HOST'] == 'en.lybor.com.br') { ?>
+        //TEXTO EM INGLÊS
+        if ($_SERVER['HTTP_HOST'] == 'en.lybor.com.br') { ?>
         <div class="container">
           <div class="texto" id="page-estrutura-do-grupo">
             <h3> Internal Corporate Standards </h3>
@@ -81,22 +66,6 @@
             <div class="pt-3 align-items-center text-center">
 
               <img src="assets/img/kellen-landgraf-joze.jpg" width="100%"><br>
-              <!-- textos sob fotos
-                <div class="w-100 text-left" style="padding-top:3px;; display: flex; font-family: beausans; font-weight: 600;">
-
-                <div class="textos" style="width:39%; margin-top: 5px; padding: 0px 10px; color: #575757; line-height: 1.2;">Dr. Péricles Landgraf<br>
-                                        <span style="color: #69b8d6">Diretor Presidente </span><br>
-                                        <div style="padding-top:5px;">+55 41 99224 1342</div>
-                                        <span>pericles@lybor.com.br pericles@oxycer.com</span>
-                </div>
-
-                <div class="textos" style="width:30%; margin-top: 5px; padding: 0px 10px; color: #575757; line-height: 1.2;">Dr. Osmar Vasconcelos<br>
-                                        <span style="color: #69b8d6">Diretor Superintendente </span><br>
-                                        <div style="padding-top:5px;">+55 44 99986 6348</div>
-                                        <span>drosmar@lybor.com.br</span>
-                </div> -->
-              <BR>
-              <!-- <a href="https://www.jusbrasil.com.br/processos/nome/28511896/pericles-landgraf-araujo-oliveira" target="_blank" class="bt-leia-mais" style="letter-spacing: .2px;"> Sta<span style="letter-spacing: .8px;">ff</spam> Área Contenciosa Judicial -->
               <a href="a-area-de-atuacao" class="bt-leia-mais" style="letter-spacing: .2px;"> Judicial Litigation Area </a>
 
               <img src="assets/img/equipe-lybor.jpg" width="97%" style="border: 7px solid #fff; margin-top:25px; margin-left: -20px;"><br>
@@ -104,7 +73,39 @@
 
           </div>
         </div>
+
+
+      <?php } 
+
+      //TEXTO EM ÁRABE -->
+
+      if ($_SERVER['HTTP_HOST'] == 'ar.lybor.com.br') { ?>
+        <div class="container">
+          <div class="texto" id="page-estrutura-do-grupo">
+            <h3> المعايير الداخلية للشركات </h3>
+            <p>
+              &nbsp;
+            </p>
+            <div class="pt-3 align-items-center text-center">
+              <a href="acesso/" class="bt-leia-mais open-modal-normas">قرارات مجلس الإدارة</a>
+              <a href="comunicados-importantes" class="bt-leia-mais">إعلانات هامة</a>
+              <!-- <a href="circulares" class="bt-leia-mais">Circulars</a> -->
+              <a href="acesso/index2.php" class="bt-leia-mais">التعاميم</a>
+              <a href="carreira-e-meritocracia" class="bt-leia-mais">المهنة والجدارة</a>
+            </div>
+            <span style="display:block; height: 24px;"></span>
+            <div class="pt-3 align-items-center text-center">
+
+              <img src="assets/img/kellen-landgraf-joze.jpg" width="100%"><br>
+              <a href="a-area-de-atuacao" class="bt-leia-mais" style="letter-spacing: .2px;"> مجال التقاضي القضائي </a>
+
+              <img src="assets/img/equipe-lybor.jpg" width="97%" style="border: 7px solid #fff; margin-top:25px; margin-left: -20px;"><br>
+            </div>
+
+          </div>
+        </div>
       <?php } ?>
+      
     </div>
 </div>
 </section>
