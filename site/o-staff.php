@@ -66,6 +66,7 @@
               Vinícius Stanoga<br>
               Vitória Luiza Rossi<br>
               Weslley Leão<br>
+              Yasmim Putinati Moraes<br>
             </p>
             <p>
               <br>
@@ -74,10 +75,7 @@
               Giovana de Souza Valério<br>
               Leandro Fernandes<br>
               Lívia Sommer de Moraes<br> 
-              Maria Fernanda Sachetti de Ganeli<br>
-              Sarah Ravaneli dos Santos<br>
               Yasmim Polsaque de Franca<br>
-              Yasmim Putinati Moraes<br>
 
               <br>
               <br>
@@ -159,6 +157,7 @@
 
               Weslley Leão<br>
               OAB/PR 131.013<br>
+              
               <br>
               <br>
 
@@ -231,7 +230,8 @@
               Thiago Alves de Jesus Braga<br>
               Vinícius Stanoga<br>
               Vitória Luiza Rossi<br>
-              Weslley Leão<br>                 
+              Weslley Leão<br>
+              Yasmim Putinati Moraes<br>                 
             </p>
             <p>
               <br>
@@ -240,8 +240,6 @@
               Giovana de Souza Valério<br>
               Leandro Fernandes<br>
               Lívia Sommer de Moraes<br> 
-              Maria Fernanda Sachetti de Ganeli<br>
-              Sarah Ravaneli dos Santos<br>
               Yasmim Polsaque de Franca<br>
               Yasmim Putinati Moraes<br>
               <br>
@@ -409,10 +407,7 @@
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valerio -->
                 لياندرو فرنانديز<br> <!-- Leandro Fernandes -->
                 ليفيا سومر دي مورايش<br> <!-- Livya Sommer de Moraes -->
-                ماريا فيرناندا ساشيتي دي غانيلي<br> <!-- Maria Fernanda Sachetti de Ganeli -->
-                سارة رافانيلي دوس سانتوس<br> <!-- Sara Ravanelli dos Santos -->
                 ياسمين بولساك دي فرانكا<br> <!-- Yasmin Polsaque de Franca -->
-                ياسمين بوتيناتي مورايش<br> <!-- Yasmin Putinati Moraes -->
 
               <br>
               <br>
