@@ -47,14 +47,13 @@
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
+              Guilherme Lourenço Alves<br>
               Jéssica Naiara da Costa Pinha<br>
               João Paulo de Carvalho Crispim<br>
-              João Vitor de Sousa Andrade<br>
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
               Lauro Luis Dias Pestana<br>
               Leila Marques Wolf<br>
-              Luana Sagradin Tiliaki<br>
               Marcio Diogo Rodrigues Lopes <br>
               Mônica Landgraf de Vasconcelos<br>
               Nicole Pestana<br>
@@ -73,8 +72,11 @@
               ESTAGIÁRIOS<br>
               <br>
               Giovana de Souza Valério<br>
-              Leandro Fernandes<br>
-              Lívia Sommer de Moraes<br> 
+              Haiane Moraes Oliveira<br>
+              Lívia Sommer de Moraes<br>
+              Niely Valentin<br>
+              Pedro Augusto Fabril<br>
+              Victoria Poso Nestório<br>  
               Yasmim Polsaque de Franca<br>
 
               <br>
@@ -113,11 +115,7 @@
               Jéssica Naiara da Costa Pinhas<br>
               OAB/PR 84.732<br>
               <br>
-
-              João Vitor de Sousa Andrade<br>
-              OAB/PR 127.262<br>
-              <br>
-
+              
               Jozelene Ferreira de Andrade<br>
               OAB/PR 41.737<br>
               OAB/SP 359.667<br>
@@ -129,11 +127,7 @@
               OAB/PR 36.778 <br>
               OAB/SP 359.669<br>
               <br>
-
-              Luana Sagradin Tiliaki<br>
-              OAB/PR 128.678<br>
-              <br>
-
+             
               Péricles Landgraf Araújo de Oliveira<br>
               OAB/PR 18.294<br>
               OAB/SP 240.943<br>
@@ -212,14 +206,13 @@
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
+              Guilherme Lourenço Alves<br>
               Jéssica Naiara da Costa Pinha<br>
-              João Paulo de Carvalho Crispim<br>
-              João Vitor de Sousa Andrade<br>
+              João Paulo de Carvalho Crispim<br> 
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
               Lauro Luis Dias Pestana<br>
               Leila Marques Wolf<br>
-              Luana Sagradin Tiliaki<br>
               Marcio Diogo Rodrigues Lopes <br>
               Mônica Landgraf de Vasconcelos<br>
               Nicole Pestana<br>
@@ -238,10 +231,12 @@
               INTERNS<br>
               <br>
               Giovana de Souza Valério<br>
-              Leandro Fernandes<br>
-              Lívia Sommer de Moraes<br> 
+              Haiane Moraes Oliveira<br>
+              Lívia Sommer de Moraes<br>
+              Niely Valentin<br>
+              Pedro Augusto Fabril<br>
+              Victoria Poso Nestório<br>  
               Yasmim Polsaque de Franca<br>
-              Yasmim Putinati Moraes<br>
               <br>
               <br>
 
@@ -281,11 +276,7 @@
               Jéssica Naiara da Costa Pinhas<br>
               OAB/PR 84.732<br>
               <br>
-
-              João Vitor de Sousa Andrade<br>
-              OAB/PR 127.262<br>
-              <br>
-
+              
               Jozelene Ferreira de Andrade<br>
               OAB/PR 41.737<br>
               OAB/SP 359.667<br>
@@ -296,10 +287,6 @@
               OAB/MG 198.633<br>
               OAB/PR 36.778 <br>
               OAB/SP 359.669<br>
-              <br>
-
-              Luana Sagradin Tiliaki<br>
-              OAB/PR 128.678<br>
               <br>
 
               Péricles Landgraf Araújo de Oliveira<br>
@@ -379,14 +366,13 @@
                 غابرييل كوستا<br> <!-- Gabriel Costa -->
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valério -->
                 غيلييرمي أوغوستو دي كاسترو<br> <!-- Guilherme Augusto de Castro -->
+                غيلييرمي لورينكو ألفيس<br> <!-- Guilherme Lourenço Alves -->
                 جيسيكا نايارا دا كوستا-بينيا<br> <!-- Jessica Nayara da Costa-Pinha -->
                 جواو باولو دي كارفاليو كريسبيم<br> <!-- João Paulo de Carvalho Crispim -->
-                جواو فيتور دي سوزا أندرادي<br> <!-- João Vitor de Souza Andrade -->
                 جوزيلين فيريرا دي أندرادي<br> <!-- Jozelene Ferreira de Andrade -->
                 كيلين كريستينا بومبوناتو سانتوس<br> <!-- Kellen Cristina Bombonato Santos -->
                 ليلى ماركيز وولف<br> <!-- Leila Marques Wolf -->
                 لاورو لويس دياس بيستانا<br> <!-- Lauro Luis Dias Pestana -->
-                لوانا ساغرادين تيلياك<br> <!-- Luana Sagradin Tiliaki -->
                 مارسيو ديوغو رودريغيس لوبيس<br> <!-- Marcio Diogo Rodrigues Lopez -->
                 مونيكا لاندغراف دي فاسكونسيلوس<br> <!-- Monica Landgraf de Vasconcelos -->
                 نيكول بيستانا<br> <!-- Nicole Pestana -->
@@ -397,7 +383,6 @@
                 تياغو ألفيس دي جيسوس براغا<br> <!-- Thiago Alves de Jesus Braga -->
                 فيتوريا لويزا روسي<br> <!-- Vitoria Luiza Rossi -->
                 ويسلي ليان<br> <!-- Weslley Leao -->
-                ياسمين بولساك دي فرانكا<br> <!-- Yasmin Polsaque de Franca -->
                 ياسمين بوتيناتي مورايش<br> <!-- Yasmin Putinati Moraes -->
             </p>
             <p>
@@ -405,8 +390,11 @@
                 المتدربون<br>
                 <br>
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valerio -->
-                لياندرو فرنانديز<br> <!-- Leandro Fernandes -->
+                هاين مورايش أوليفيرا<br> <!-- Haiane Moraes Oliveira -->
                 ليفيا سومر دي مورايش<br> <!-- Livya Sommer de Moraes -->
+                نييلي فالنتين<br> <!-- Niely Valentin -->
+                بيدرو أوغستو فابريل<br> <!-- Pedro Augusto Fabril -->
+                فيكتوريا بوسو نيستوري<br> <!-- Victoria Poso Nestório -->
                 ياسمين بولساك دي فرانكا<br> <!-- Yasmin Polsaque de Franca -->
 
               <br>
@@ -443,10 +431,7 @@
                 OAB/PR 84.732
                 <br>
                 <br>
-
-                جواو فيتور دي سوزا أندرادي<br> <!-- João Vitor de Souza Andrade -->
-                OAB/PR 127.262<br>
-
+               
                 جوزيلين فيريرا دي أندرادي<br> <!-- Jozelene Ferreira de Andrade -->
                 OAB/PR 41.737<br>
                 OAB/SP 359.667<br>
@@ -459,11 +444,7 @@
                 OAB/SP 359.669
                 <br>
                 <br>
-
-                لوانا ساغرادين تيلياك<br> <!-- Luana Sagradin Tiliaki -->
-                OAB/PR 128.678<br>
-                <br>
-
+              
                 بيركليس لاندغراف أراوجو دي أوليفيرا<br> <!-- Pericles Landgraf Araujo de Oliveira -->
                 OAB/PR 18.294<br>
                 OAB/SP 240.943<br>
