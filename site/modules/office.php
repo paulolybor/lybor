@@ -1,4 +1,4 @@
-<div id="" class="gallery-isotope grid-4 clearfix flex">
+<div id="grid" class="gallery-isotope grid-4 clearfix flex">
     
 
     <div class="gallery-item design">

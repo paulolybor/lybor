@@ -41,15 +41,16 @@
             <p>
               Amanda Landgraf <br>
               Ana Laura Sanches Velasco <br>
-              Bruno Eidam<br>
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
               Guilherme Lourenço Alves<br>
+              Haiane Moraes Oliveira<br>
               Jéssica Naiara da Costa Pinha<br>
               João Paulo de Carvalho Crispim<br>
+              João Vitor de Sousa Andrade<br>
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
               Lauro Luis Dias Pestana<br>
@@ -59,6 +60,7 @@
               Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
+              Pedro Augusto Arroteia Fabril<br>
               Péricles Landgraf Araújo de Oliveira<br>
               Tamires Alves Paixão<br>
               Thiago Alves de Jesus Braga<br>
@@ -73,10 +75,9 @@
               <br>
               Giovana de Souza Valério<br>
               Haiane Moraes Oliveira<br>
+              Leandro Fernandes<br>
               Lívia Sommer de Moraes<br>
-              Niely Valentin<br>
-              Pedro Augusto Fabril<br>
-              Victoria Poso Nestório<br>  
+              Pedro Augusto Arroteia Fabril<br> 
               Yasmim Polsaque de Franca<br>
 
               <br>
@@ -89,7 +90,7 @@
               <br> -->
               ASSISTENTES JURÍDICOS<br>
               <br>
-              Bruno Eidam<br>
+              Guilherme Lourenço Alves<br>
               <br>
               <br>
 
@@ -115,7 +116,11 @@
               Jéssica Naiara da Costa Pinhas<br>
               OAB/PR 84.732<br>
               <br>
-              
+
+              João Vitor de Sousa Andrade<br>
+              OAB/PR 127.262<br>
+              <br>
+
               Jozelene Ferreira de Andrade<br>
               OAB/PR 41.737<br>
               OAB/SP 359.667<br>
@@ -127,7 +132,11 @@
               OAB/PR 36.778 <br>
               OAB/SP 359.669<br>
               <br>
-             
+
+              Luana Sagradin Tiliaki<br>
+              OAB/PR 128.678<br>
+              <br>
+
               Péricles Landgraf Araújo de Oliveira<br>
               OAB/PR 18.294<br>
               OAB/SP 240.943<br>
@@ -200,15 +209,16 @@
             <p>
               Amanda Landgraf <br>
               Ana Laura Sanches Velasco <br>
-              Bruno Eidam<br>
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
               Flaviane Simionato<br>
               Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
               Guilherme Lourenço Alves<br>
+              Haiane Moraes Oliveira<br>
               Jéssica Naiara da Costa Pinha<br>
-              João Paulo de Carvalho Crispim<br> 
+              João Paulo de Carvalho Crispim<br>
+              João Vitor de Sousa Andrade<br>
               Jozelene Ferreira de Andrade<br>
               Kellen Cristina Bombonato Santos<br>
               Lauro Luis Dias Pestana<br>
@@ -218,13 +228,14 @@
               Nicole Pestana<br>
               Paulo Kennedy Nascimento <br>
               Paulo Roberto Alves Braga<br>
+              Pedro Augusto Arroteia Fabril<br>
               Péricles Landgraf Araújo de Oliveira<br>
               Tamires Alves Paixão<br>
               Thiago Alves de Jesus Braga<br>
               Vinícius Stanoga<br>
               Vitória Luiza Rossi<br>
               Weslley Leão<br>
-              Yasmim Putinati Moraes<br>                 
+              Yasmim Putinati Moraes<br>
             </p>
             <p>
               <br>
@@ -232,10 +243,9 @@
               <br>
               Giovana de Souza Valério<br>
               Haiane Moraes Oliveira<br>
+              Leandro Fernandes<br>
               Lívia Sommer de Moraes<br>
-              Niely Valentin<br>
-              Pedro Augusto Fabril<br>
-              Victoria Poso Nestório<br>  
+              Pedro Augusto Arroteia Fabril<br> 
               Yasmim Polsaque de Franca<br>
               <br>
               <br>
@@ -249,7 +259,7 @@
 
               LEGAL ASSISTANTS<br>
               <br>
-              Bruno Eidam<br>
+              Guilherme Lourenço Alves<br>
               <br>
               <br>
 
@@ -276,7 +286,11 @@
               Jéssica Naiara da Costa Pinhas<br>
               OAB/PR 84.732<br>
               <br>
-              
+
+              João Vitor de Sousa Andrade<br>
+              OAB/PR 127.262<br>
+              <br>
+
               Jozelene Ferreira de Andrade<br>
               OAB/PR 41.737<br>
               OAB/SP 359.667<br>
@@ -287,6 +301,10 @@
               OAB/MG 198.633<br>
               OAB/PR 36.778 <br>
               OAB/SP 359.669<br>
+              <br>
+
+              Luana Sagradin Tiliaki<br>
+              OAB/PR 128.678<br>
               <br>
 
               Péricles Landgraf Araújo de Oliveira<br>
@@ -359,30 +377,34 @@
             <p>
                 أماندا لاندغراف <br>  <!-- Amanda Landgraf -->
                 آنا لورا سانشيز فيلاسكو <br> <!-- Ana Laura Sanches Velasco -->
-                برونو إيدام<br> <!-- Bruno Eidam -->
                 سينثيا بياتريس ألفيس<br> <!-- Cynthia Beatriz Alves -->
                 دانييلي مودوس باربوزا<br> <!-- Daniele Modos Barbosa -->
                 فلافينيه سيميوناو<br> <!-- Flaviane Simionato -->
                 غابرييل كوستا<br> <!-- Gabriel Costa -->
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valério -->
                 غيلييرمي أوغوستو دي كاسترو<br> <!-- Guilherme Augusto de Castro -->
-                غيلييرمي لورينكو ألفيس<br> <!-- Guilherme Lourenço Alves -->
+                غيلهيرم لورينسو ألفيس<br> <!-- Guilherme Lourenço Alves -->
+                هايان موراليس أوليفيرا<br> <!-- Haiane Moraes Oliveira -->
                 جيسيكا نايارا دا كوستا-بينيا<br> <!-- Jessica Nayara da Costa-Pinha -->
                 جواو باولو دي كارفاليو كريسبيم<br> <!-- João Paulo de Carvalho Crispim -->
+                جواو فيتور دي سوزا أندرادي<br> <!-- João Vitor de Souza Andrade -->
                 جوزيلين فيريرا دي أندرادي<br> <!-- Jozelene Ferreira de Andrade -->
                 كيلين كريستينا بومبوناتو سانتوس<br> <!-- Kellen Cristina Bombonato Santos -->
                 ليلى ماركيز وولف<br> <!-- Leila Marques Wolf -->
                 لاورو لويس دياس بيستانا<br> <!-- Lauro Luis Dias Pestana -->
+                لوانا ساغرادين تيلياك<br> <!-- Luana Sagradin Tiliaki -->
                 مارسيو ديوغو رودريغيس لوبيس<br> <!-- Marcio Diogo Rodrigues Lopez -->
                 مونيكا لاندغراف دي فاسكونسيلوس<br> <!-- Monica Landgraf de Vasconcelos -->
                 نيكول بيستانا<br> <!-- Nicole Pestana -->
                 باولو كينيدي ناسيمنتو<br> <!-- Paulo Kennedy Nascimento -->
                 باولو روبرتو ألفيس براغا<br> <!-- Paulo Roberto Alves Braga -->
+                بيدرو أوغوستو أروتيا فابريل<br> <!-- Pedro Augusto Arroteia Fabril -->
                 بيركليس لاندغراف أراوجو دي أوليفيرا<br> <!-- Pericles Landgraf Araujo de Oliveira -->
                 تاميريس ألفيس بايشاو<br> <!-- Tamires Alves Paixao -->
                 تياغو ألفيس دي جيسوس براغا<br> <!-- Thiago Alves de Jesus Braga -->
                 فيتوريا لويزا روسي<br> <!-- Vitoria Luiza Rossi -->
                 ويسلي ليان<br> <!-- Weslley Leao -->
+                ياسمين بولساك دي فرانكا<br> <!-- Yasmin Polsaque de Franca -->
                 ياسمين بوتيناتي مورايش<br> <!-- Yasmin Putinati Moraes -->
             </p>
             <p>
@@ -390,11 +412,10 @@
                 المتدربون<br>
                 <br>
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valerio -->
-                هاين مورايش أوليفيرا<br> <!-- Haiane Moraes Oliveira -->
+                 هايان موراليس أوليفيرا<br> <!-- Haiane Moraes Oliveira -->
+                لياندرو فرنانديز<br> <!-- Leandro Fernandes -->
                 ليفيا سومر دي مورايش<br> <!-- Livya Sommer de Moraes -->
-                نييلي فالنتين<br> <!-- Niely Valentin -->
-                بيدرو أوغستو فابريل<br> <!-- Pedro Augusto Fabril -->
-                فيكتوريا بوسو نيستوري<br> <!-- Victoria Poso Nestório -->
+                بيدرو أوغوستو أروتيا فابريل <!-- Pedro Augusto Arroteia Fabril -->
                 ياسمين بولساك دي فرانكا<br> <!-- Yasmin Polsaque de Franca -->
 
               <br>
@@ -405,7 +426,7 @@
               
                 المساعدون القانونيون<br> 
                 <br>
-                برونو إيدام<br> <!-- Bruno Eidam -->
+                غيلهيرم لورينسو ألفيس<br> <!-- Guilherme Lourenço Alves -->
                 <br>
 
                 المحامون<br>
@@ -431,7 +452,10 @@
                 OAB/PR 84.732
                 <br>
                 <br>
-               
+
+                جواو فيتور دي سوزا أندرادي<br> <!-- João Vitor de Souza Andrade -->
+                OAB/PR 127.262<br>
+
                 جوزيلين فيريرا دي أندرادي<br> <!-- Jozelene Ferreira de Andrade -->
                 OAB/PR 41.737<br>
                 OAB/SP 359.667<br>
@@ -444,7 +468,11 @@
                 OAB/SP 359.669
                 <br>
                 <br>
-              
+
+                لوانا ساغرادين تيلياك<br> <!-- Luana Sagradin Tiliaki -->
+                OAB/PR 128.678<br>
+                <br>
+
                 بيركليس لاندغراف أراوجو دي أوليفيرا<br> <!-- Pericles Landgraf Araujo de Oliveira -->
                 OAB/PR 18.294<br>
                 OAB/SP 240.943<br>

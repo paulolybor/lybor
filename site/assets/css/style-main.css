@@ -8,7 +8,7 @@ Version:        1.0
 Last change:    04.25.2016
 Primary use:    Health & Medical HTML Template
 Author:         ThemeMascot
-URL:            https://themeforest.net/user/ThemeMascot
+URL:            http://themeforest.net/user/ThemeMascot
 -------------------------------------------------------------------*/
 
 
@@ -10474,14 +10474,4 @@ blockquote p {
     border-width: 1px;
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
-}
-
-/* Elimina o overlay fantasma em telas até 991 px */
-@media (max-width: 991.98px) {
-  .elementor-popup-modal,
-  .elementor-overlay,
-  .seletor-do-overlay-que-identificou {
-    display: none !important;   /* ou pointer-events:none */
-    z-index: -1 !important;
-  }
 }
