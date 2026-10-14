@@ -44,7 +44,6 @@
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
               Flaviane Simionato<br>
-              Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
               Guilherme Lourenço Alves<br>
               Haiane Moraes Oliveira<br>
@@ -103,10 +102,6 @@
 
               Flaviane Simionato<br>
               OAB/PR 126.502<br>
-              <br>
-
-              Gabriel Costa<br>
-              OAB/PR 117.201<br>
               <br>
 
               Guilherme Augusto de Castro<br>
@@ -212,7 +207,6 @@
               Cintia Beatriz Alves<br>
               Daniele Modos Barbosa<br>
               Flaviane Simionato<br>
-              Gabriel Costa<br>
               Guilherme Augusto de Castro<br>
               Guilherme Lourenço Alves<br>
               Haiane Moraes Oliveira<br>
@@ -273,10 +267,6 @@
 
               Flaviane Simionato<br>
               OAB/PR 126.502<br>
-              <br>
-
-              Gabriel Costa<br>
-              OAB/PR 117.201<br>
               <br>
 
               Guilherme Augusto de Castro<br>
@@ -380,7 +370,6 @@
                 سينثيا بياتريس ألفيس<br> <!-- Cynthia Beatriz Alves -->
                 دانييلي مودوس باربوزا<br> <!-- Daniele Modos Barbosa -->
                 فلافينيه سيميوناو<br> <!-- Flaviane Simionato -->
-                غابرييل كوستا<br> <!-- Gabriel Costa -->
                 جيوفانا دي سوزا فاليريو<br> <!-- Giovana de Souza Valério -->
                 غيلييرمي أوغوستو دي كاسترو<br> <!-- Guilherme Augusto de Castro -->
                 غيلهيرم لورينسو ألفيس<br> <!-- Guilherme Lourenço Alves -->
@@ -438,10 +427,6 @@
 
                 فلافينيه سيميوناو<br> <!-- Flaviane Simionato -->
                 OAB/PR 126.502<br>
-                <br>
-
-                غابرييل كوستا<br>  <!-- Gabriel Costa -->
-                OAB/PR 117.201<br>
                 <br>
 
                 غيلييرمي أوغوستو دي كاسترو<br> <!-- Guilherme Augusto de Castro -->

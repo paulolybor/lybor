@@ -28,9 +28,16 @@
                       <p>
                       Atualmente defende direitos violados da classe produtora rural em todo o Brasil, com 15 mil processos na justiça e 40 mil clientes na área consultiva, prestando informações técnicas para a classe produtora rural nacional, para que os produtores rurais brasileiros não sejam injustiçados em seus direitos fundamentais e patrimoniais, no Direito das Obrigações do Direito Civil Brasileiro.
                       </p>
-                      <h4 style="font-size: 1.313em; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 19.08.2026</h4>
+                      <h4 style="font-size: 1.314em; font-weight: 600 !important; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 25.06.2026</h4>
                       <div style="margin: 0 -20px; position: relative; z-index: 999;">    
-                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-o-individamento-rural.jpg">
+                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
+                          <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
+                          Seu navegador não suporta vídeo HTML5.
+                        </video>
+                      </div>
+                      <h4 style="font-size: 1.314em; font-weight: 600 !important; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 19.08.2026</h4>
+                      <div style="margin: 0 -20px; position: relative; z-index: 999;">    
+                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
                           <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
                           Seu navegador não suporta vídeo HTML5.
                         </video>
@@ -104,9 +111,9 @@
                       <p>
                       Currently defends violated rights of the rural producer class throughout Brazil, with 15 thousand cases in court and 40 thousand clients in the consultancy area, providing technical information to the national rural producer class, so that Brazilian rural producers are not unfairly treated in their fundamental rights and patrimonial, in the Law of Obligations of Brazilian Civil Law.
                       </p>
-                      <h4 style="font-size: 1.313em; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 19.08.2026</h4>
+                      <h4 style="font-size: 1.313em; font-weight 600; padding-top: 11px; margin-bottom: 19px;"> Lecture given on the 19.08.2026</h4>
                       <div style="margin: 0 -20px; position: relative; z-index: 999;">    
-                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-o-individamento-rural.jpg">
+                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
                           <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
                           Seu navegador não suporta vídeo HTML5.
                         </video>
@@ -154,7 +161,7 @@
                         four consecutive years as the best law firm in the sector.
                       </h4>
                       <div style="display:block; height: 20px;"></div>
-                      <a href="https://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> VEJA SOBRE O PRÊMIO MASTER CANA </a>
+                      <a href="https://www.gerhai.org.br/mcsocial/" target="_blank" class="bt-leia-mais"> LEARN ABOUT THE MASTER CANA AWARD </a>
                     </div>
                   </div>
                 </div>
@@ -179,9 +186,9 @@
                       <p>
                       حاليًا، يدافع عن الحقوق المنتهكة للفئة المنتجة الريفية في جميع أنحاء البرازيل، مع 15 ألف قضية في المحاكم و40 ألف عميل في المجال الاستشاري، مقدماً معلومات تقنية للفئة المنتجة الريفية الوطنية، حتى لا يتعرض المنتجون الزراعيون البرازيليون للظلم في حقوقهم الأساسية والملكية، في قانون الالتزامات في القانون المدني البرازيلي.
                       </p>
-                      <h4 style="font-size: 1.313em; padding-top: 11px; margin-bottom: 19px;"> محاضرة أُقيمت في 19 أغسطس 2026</h4>
+                      <h4 style="font-size: 1.313em; font-weight 600; padding-top: 11px; margin-bottom: 19px;"> محاضرة أُقيمت في 19 أغسطس 2026</h4>
                       <div style="margin: 0 -20px; position: relative; z-index: 999;">    
-                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-o-individamento-rural.jpg">
+                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
                           <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
                           Seu navegador não suporta vídeo HTML5.
                         </video>
