@@ -10475,3 +10475,12 @@ blockquote p {
     color: rgba(255, 255, 255, 1.00);
     text-decoration: none;
 }
+#home .blocos-historias .texto-completo.metade-height {
+  height: auto;
+  min-height: 803px;
+  background: #fff;
+}
+#home .blocos-historias .texto-completo .texto-home {
+  position: relative;
+  height: auto;
+}

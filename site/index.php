@@ -28,20 +28,29 @@
                       <p>
                       Atualmente defende direitos violados da classe produtora rural em todo o Brasil, com 15 mil processos na justiça e 40 mil clientes na área consultiva, prestando informações técnicas para a classe produtora rural nacional, para que os produtores rurais brasileiros não sejam injustiçados em seus direitos fundamentais e patrimoniais, no Direito das Obrigações do Direito Civil Brasileiro.
                       </p>
-                      <h4 style="font-size: 1.314em; font-weight: 600 !important; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 25.06.2026</h4>
-                      <div style="margin: 0 -20px; position: relative; z-index: 999;">    
-                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
-                          <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
-                          Seu navegador não suporta vídeo HTML5.
-                        </video>
-                      </div>
-                      <h4 style="font-size: 1.314em; font-weight: 600 !important; padding-top: 11px; margin-bottom: 19px;"> Palestra Realizada no dia 19.08.2026</h4>
-                      <div style="margin: 0 -20px; position: relative; z-index: 999;">    
-                        <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
-                          <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
-                          Seu navegador não suporta vídeo HTML5.
-                        </video>
-                      </div>
+                      <h4 style="font-size: 1.4em; font-weight: 600 !important; padding-top: 19px; margin-bottom: 5px;"> Clique para Assistir Nossas Palestras no Youtube</h4>
+                                            
+                        <h4 style="font-size: 1.314em; font-weight: 500 !important; padding-top: 19px; margin-bottom: 5px;"><a href="#"> Palestra Realizada no dia 25.06.2026</a></h4>
+                        <h4 style="font-size: 1.14em; font-weight: 400 !important; margin-bottom: 19px;"><a href="#">  &bull; Dívidas Rurais: Como Retomar o Controle.</a></h4>
+                        <!-- <div style="margin: 0 -20px; position: relative; z-index: 999;">    
+                          <video id="video-palestra" width="650" style="max-width: 100%; position: relative; z-index: 999;" controls poster="assets/video/protecao-inteligente-contra-individamento-rural.jpg">
+                            <source src="assets/video/protecao-inteligente-contra-o-individamento-rural.mp4" type="video/mp4">
+                            Seu navegador não suporta vídeo HTML5.
+                          </video>
+                        </div> -->
+                      
+                      <a href="#">
+                        <h4 style="font-size: 1.314em; font-weight: 500 !important; padding-top: 11px; margin-bottom: 5px;"><a href="#"> Palestra Realizada no dia 19.08.2026</a></h4>
+                        <h4 style="font-size: 1.14em; font-weight: 400 !important; margin-bottom: 19px;"><a href="#">  &bull; Proteção Inteligente Cntra o Endividamento Rural.</a></h4>
+                      </a>
+                      <a href="#">  
+                        <h4 style="font-size: 1.314em; font-weight: 500 !important; padding-top: 11px; margin-bottom: 5px;"><a href="#"> Palestra Realizada no dia 07.10.2026</a></h4>
+                        <h4 style="font-size: 1.14em; font-weight: 400 !important; margin-bottom: 19px;"><a href="#">  &bull; 2026: O Ano em  que o Crédito Rural Travou.</a></h4>
+                      </a>
+                      <a href="#">
+                        <h4 style="font-size: 1.314em; font-weight: 500 !important; padding-top: 11px; margin-bottom: 5px;"><a href="#"> Palestra Agendada para o dia 28.11.2026</a></h4>
+                        <h4 style="font-size: 1.14em; font-weight: 400 !important; margin-bottom: 19px;"><a href="#">  &bull; Crédito Rural: Recuperação de Valores Pagos a Mais.</a></h4>
+                    </a>
                     </div>
  
                     <div class="texto texto-internas">
