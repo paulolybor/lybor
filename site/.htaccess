@@ -29,6 +29,8 @@
   RewriteRule ^circulares-ref-saude/?$ circulares-ref-saude.php [NC,L]  
   RewriteRule ^circulares-dep-limpeza-manutencao-conservacao-sevicos-gerais/?$ circulares-dep-limpeza-manutencao-conservacao-sevicos-gerais.php [NC,L]  
   RewriteRule ^circulares-cafe-le-bateau/?$ circulares-cafe-le-bateau.php [NC,L]  
+  RewriteRule ^palestras-em-dividas-agricolas/?$ palestras.php [NC,L]  
+  RewriteRule ^entrevistas-na-area-de-credito-rural/?$ entrevistas.php [NC,L]  
 
 </IfModule>
 

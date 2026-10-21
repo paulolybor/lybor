@@ -10,11 +10,11 @@
       }
   }
   
-  @media (max-width: 768px) {
+  /* @media (max-width: 768px) {
       #wrapper {
           margin-top: 39px;
       }
-  }
+  } */
 </style>
 
 <body>

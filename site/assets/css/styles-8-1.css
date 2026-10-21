@@ -363,7 +363,7 @@ form .chosen-container {
 
 @media (max-width: 768px) {
   .blocos-historias .blocos .texto {
-    padding: 20px 20px 40px; }
+    padding: 20px 20px 15px; }
   .blocos-historias .completo {
     height: 630px; }
       }
@@ -605,7 +605,7 @@ form .chosen-container {
 		background: #000;	} /* preto */
 
   #wrapper {
-    margin-top: 45px; }  
+    margin-top: 65px; }  
 
 	#footer .left {
 		width: 100%; }

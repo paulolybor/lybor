@@ -60,7 +60,7 @@
 
     <link href="assets/css/bootstrap.css" rel="stylesheet">
     <link href="assets/css/plugins.css" rel="stylesheet">
-    <link href="assets/css/styles-8-1.css?v=155" rel="stylesheet">
+    <link href="assets/css/styles-8-1.css?v=157" rel="stylesheet">
 
     <link href="assets/css/app-8-1.css?v=166" rel="stylesheet">
     <link href="assets/css/font-awesome.min.css" rel="stylesheet">
@@ -142,7 +142,7 @@
             background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente */
             justify-content: center;
             /* align-items: center; */
-            z-index: 9999; /* Coloca o popup em primeiro plano */
+            z-index: 9991; /* Coloca o popup em primeiro plano */
         }
 
         .popup-content {
@@ -204,9 +204,6 @@
 
     </style>
 
-
-<body>:
-
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZSV5HW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
@@ -232,10 +229,6 @@
     </head>
 
     <body>
-        <!-- Google Tag Manager (noscript) -->
-        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PZSV5HW" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-        <!-- End Google Tag Manager (noscript) -->
-
 
         <div id="menu-mobile">teste</div>
 
@@ -301,6 +294,8 @@
                                         <li><a href="o-nosso-modus-laborandi"> O NOSSO MODUS LABORANDI </a></li>
                                         <li><a href="o-staff"> O STAFF </a></li>
                                         <li><a href="videos-defesa-do-produtor-rural"> DR. PÉRICLES LANDGRAF | NA DEFESA DO AGRICULTOR </a></li>
+                                        <li><a href="palestras-em-dividas-agricolas"> PALESTRAS EM DÍVIDAS AGRÍCOLAS </a></li>
+                                        <li><a href="entrevistas-na-area-de-credito-rural"> ENTREVISTAS NA ÁREA DE CRÉDITO RURAL </a></li>
                                         <li><a href="os-nossos-valores"> OS NOSSOS VALORES </a></li>
                                         <li><a href="contato"> CONTATO </a></li>
                                         <li class="dropdown menu-desk2">
@@ -382,8 +377,7 @@
                     float: none;
                 }
             }
-        </style>
-        <style>
+
             .bloco-videos {
                 width: 100%;
                 display: inline-block;
